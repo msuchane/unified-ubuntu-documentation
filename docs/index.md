@@ -7,6 +7,7 @@ Ubuntu is an open-source operating system powering millions of PCs, laptops and 
 :maxdepth: 2
 
 Desktop </desktop/index>
+Server </server/index>
 :::
 
 <!--
