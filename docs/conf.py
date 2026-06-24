@@ -22,7 +22,7 @@ import yaml
 
 # Project name
 
-project = "Ubuntu Desktop"
+project = "Ubuntu"
 
 # Author name; used in the default copyright statement in the page footer
 author = "Canonical Ltd."
@@ -76,7 +76,7 @@ html_context = {
     #
     # NOTE: If set, links for viewing the documentation source files
     #       and creating GitHub issues are added at the bottom of each page.
-    "github_url": "https://github.com/ubuntu/ubuntu-desktop-documentation",
+    "github_url": "https://github.com/msuchane/unified-ubuntu-documentation",
     # Docs branch in the repo; used in links for viewing the source files
     "repo_default_branch": "main",
     # Docs location in the repo; used in links for viewing the source files
@@ -109,7 +109,7 @@ html_context = {
 # - https://git.launchpad.net/example
 #
 html_theme_options = {
-    "source_edit_link": "https://github.com/ubuntu/ubuntu-desktop-documentation",
+    "source_edit_link": "https://github.com/msuchane/unified-ubuntu-documentation",
 }
 
 # Project slug
@@ -183,7 +183,7 @@ rediraffe_dir_only = True
 # <first sentence of home page>".
 llms_txt_description = textwrap.dedent(
     """\
-    This is the documentation for Ubuntu Desktop, an open-source operating system powering millions of PCs and laptops around the world.
+    This is the documentation for Ubuntu, an open-source operating system powering millions of PCs laptops and servers around the world.
     """
 )
 
@@ -353,4 +353,3 @@ tags_create_badges = True
 # tags_badge_colors = {
 #    "*": "light",  # Used as a default value
 # }
-
