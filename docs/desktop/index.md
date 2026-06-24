@@ -1,12 +1,15 @@
-# Ubuntu documentation
+# Ubuntu Desktop documentation
 
-Ubuntu is an open-source operating system powering millions of PCs, laptops and servers around the world.
+Ubuntu Desktop is an open-source operating system powering millions of PCs and laptops around the world. It supports daily user needs, as well as professional content creation, software development and AI/ML use cases.
 
 :::{toctree}
 :hidden:
 :maxdepth: 2
 
-Desktop </desktop/index>
+Tutorials <tutorial/index>
+How-to guides <how-to/index>
+Reference <reference/index>
+Explanation <explanation/index>
 :::
 
 <!--

@@ -1,10 +1,10 @@
-# Documentation for Ubuntu Desktop
+# A prototype of unified Ubuntu documentation
 
 [![Vale readability checks](https://github.com/ubuntu/ubuntu-desktop-documentation/actions/workflows/vale-readability.yaml/badge.svg)](https://github.com/ubuntu/ubuntu-desktop-documentation/actions/workflows/vale-readability.yaml)
 [![Vale style checks](https://github.com/ubuntu/ubuntu-desktop-documentation/actions/workflows/vale-style.yaml/badge.svg)](https://github.com/ubuntu/ubuntu-desktop-documentation/actions/workflows/vale-style.yaml)
 [![Automatic doc checks](https://github.com/ubuntu/ubuntu-desktop-documentation/actions/workflows/automatic-doc-checks.yml/badge.svg)](https://github.com/ubuntu/ubuntu-desktop-documentation/actions/workflows/automatic-doc-checks.yml)
 
-This is a repository with documentation for the Ubuntu Desktop product.
+This is a repository with documentation for the Ubuntu Desktop and Server products.
 
 It's written in Markdown and built with the Sphinx and Read the Docs frameworks.
 

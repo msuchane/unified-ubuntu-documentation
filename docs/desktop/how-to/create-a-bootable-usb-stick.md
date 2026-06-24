@@ -41,7 +41,7 @@ Disks can also write images of any other operating system, including Linux distr
 <!--
 The docs/reuse/usb-using-gnome-disks.txt file is reused between the live system tutorial, the installation tutorial and the bootable USB how-to guide.
 -->
-```{include} ../reuse/usb-using-gnome-disks.txt
+```{include} /reuse/usb-using-gnome-disks.txt
 ```
 
 ### Using Startup Disk Creator
@@ -234,7 +234,7 @@ You can create a bootable USB stick using [Rufus](https://rufus.ie/), a free and
 <!--
 The docs/reuse/usb-using-rufus.txt file is reused between the live system tutorial, the installation tutorial and the bootable USB how-to guide.
 -->
-```{include} ../reuse/usb-using-rufus.txt
+```{include} /reuse/usb-using-rufus.txt
 ```
 
 
@@ -244,7 +244,7 @@ On macOS, you have to install a third-party application for writing images to US
 
 The USB stick will work on **PC (Windows) hardware** and older Apple hardware based on **Intel CPUs**.
 
-```{include} ../reuse/apple-silicon-disclaimer.txt
+```{include} /reuse/apple-silicon-disclaimer.txt
 ```
 
 <!--
@@ -292,7 +292,7 @@ You can create a bootable USB stick using [balenaEtcher](https://etcher.balena.i
 <!--
 The docs/reuse/usb-using-balena-etcher-on-macos.txt file is reused between the live system tutorial, the installation tutorial and the bootable USB how-to guide.
 -->
-```{include} ../reuse/usb-using-balena-etcher-on-macos.txt
+```{include} /reuse/usb-using-balena-etcher-on-macos.txt
 ```
 
 (macos-dd)=
