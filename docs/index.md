@@ -36,25 +36,25 @@ _tags/tagsindex
 
 This documentation uses the [Diátaxis documentation structure](https://diataxis.fr/).
 
-* {ref}`tutorials` take you step-by-step through installing Ubuntu Desktop and exploring the user interface.
-* {ref}`how-to` assume you have basic familiarity with Ubuntu Desktop. They cover various common tasks and specialized use cases.
-* {ref}`reference` provides cheat sheets, specifications and details on the Ubuntu Desktop architecture.
-* {ref}`explanation` includes topic overviews, background and context and detailed discussion.
+* **Tutorials** take you step-by-step through installing Ubuntu Desktop and exploring the user interface.
+* **How-to guides** assume you have basic familiarity with Ubuntu Desktop. They cover various common tasks and specialized use cases.
+* **References** provide cheat sheets, specifications and details on the Ubuntu Desktop architecture.
+* **Explanations** include topic overviews, background and context and detailed discussion.
 
 
 (project-and-community)=
 ## Project and community
 
-Ubuntu Desktop is one of the main versions of the Ubuntu operating system, alongside [Ubuntu Server](https://ubuntu.com/server), [Ubuntu on WSL](https://ubuntu.com/wsl) and [Ubuntu Core](https://ubuntu.com/core).
+The Ubuntu operating system is available in several versions, including [Ubuntu Desktop](https://ubuntu.com/desktop), [Ubuntu Server](https://ubuntu.com/server), [Ubuntu on WSL](https://ubuntu.com/wsl) and [Ubuntu Core](https://ubuntu.com/core). Each is tailored to a different audience. If you aren't sure which one to install, you're probably looking for Ubuntu Desktop.
 
-As an open source project, Ubuntu Desktop warmly welcomes community projects, contributions, suggestions, fixes and constructive feedback.
+As an open source project, Ubuntu warmly welcomes community projects, contributions, suggestions, fixes and constructive feedback.
 
 ### Get involved
 
 * Get [community support](https://ubuntu.com/support/community-support)
-* Join our [Discourse forum](https://discourse.ubuntu.com/c/project/desktop/)
-* Join our [online chat on Matrix](https://matrix.to/#/#desktop-dev:ubuntu.com)
-* [Contribute to this documentation](https://github.com/ubuntu/ubuntu-desktop-documentation/blob/main/CONTRIBUTING.md)
+* Join our [Discourse forum](https://discourse.ubuntu.com/)
+* Join our [online chat on Matrix](https://matrix.to/#/#community:ubuntu.com)
+* [Contribute to this documentation](https://github.com/ubuntu/ubuntu-os-documentation/blob/main/CONTRIBUTING.md)
 
 ### Releases
 
