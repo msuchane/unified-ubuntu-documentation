@@ -8,6 +8,13 @@ Ubuntu is an open-source operating system powering millions of PCs, laptops and 
 
 Desktop </desktop/index>
 Server </server/index>
+:::
+
+:::{toctree}
+:hidden:
+:maxdepth: 2
+
+Releases and support </releases-and-support/index>
 Software management </software-management/index>
 Security </security/index>
 Networking </networking/index>
