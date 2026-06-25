@@ -8,6 +8,11 @@ Ubuntu is an open-source operating system powering millions of PCs, laptops and 
 
 Desktop </desktop/index>
 Server </server/index>
+Software management </software-management/index>
+Security </security/index>
+Networking </networking/index>
+Storage </storage/index>
+Virtualization </virtualization/index>
 :::
 
 <!--
