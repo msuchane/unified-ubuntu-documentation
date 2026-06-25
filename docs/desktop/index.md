@@ -58,20 +58,6 @@ As an open source project, Ubuntu Desktop warmly welcomes community projects, co
 * Join our [online chat on Matrix](https://matrix.to/#/#desktop-dev:ubuntu.com)
 * [Contribute to this documentation](https://github.com/ubuntu/ubuntu-desktop-documentation/blob/main/CONTRIBUTING.md)
 
-### Releases
-
-* {external:ref}`Release notes for Ubuntu 26.04 LTS <ubuntu-26.04-lts-release-notes>`
-* {external:ref}`Release notes for Ubuntu 24.04 LTS <ubuntu-24.04-lts-release-notes>`
-
-### Governance and policies
-
-* [Code of conduct](https://ubuntu.com/community/code-of-conduct)
-
-### Commercial support
-
-Get a subscription for security fixes and compliance profiles with [Ubuntu Pro](https://ubuntu.com/pro).
-
-
 ### Credits
 
 Large parts of this guide are based on documentation written by open-source communities. We wish to thank them for their work:

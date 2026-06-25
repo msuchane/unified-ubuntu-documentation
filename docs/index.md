@@ -26,17 +26,6 @@ _tags/tagsindex
 -->
 
 
-## In this documentation
-
-* **Introduction**: {ref}`about-ubuntu-desktop` • {ref}`try-ubuntu-desktop` • {ref}`the-linux-command-line-for-beginners`
-* **Installation**: {ref}`create-a-bootable-usb-stick` • {ref}`install-ubuntu-desktop` • {ref}`bitlocker-during-ubuntu-installation` • {ref}`turn-off-bitlocker-in-windows` • {ref}`intel-rst-during-ubuntu-installation` • {ref}`reconfigure-windows-to-use-ahci`
-* **Accessibility**: {ref}`Screen reader tutorial <get-started-with-the-screen-reader>` • {ref}`Enable accessibility features <how-to-accessibility>` • {ref}`keyboard-navigation-shortcuts` • {ref}`accessibility-stack` • {ref}`Reference <reference-accessibility>`
-* **Security**: {ref}`hardware-backed-disk-encryption` • {ref}`Smart card login <log-in-using-a-smart-card>` • {ref}`Smart card in your web browser <enable-smart-cards-in-snapped-browsers>`
-* **Software and versions**: {ref}`install-or-remove-software` • {ref}`upgrade-ubuntu-desktop` • {ref}`switch-between-an-lts-and-interim-release`
-* **Remote access**: {ref}`share-your-desktop-remotely` • {ref}`access-a-remote-desktop`
-* **Customization**: {ref}`change-the-default-terminal` • {ref}`start-an-application-at-login`
-
-
 ## How this documentation is organized
 
 This documentation uses the [Diátaxis documentation structure](https://diataxis.fr/).
@@ -73,12 +62,3 @@ As an open source project, Ubuntu warmly welcomes community projects, contributi
 ### Commercial support
 
 Get a subscription for security fixes and compliance profiles with [Ubuntu Pro](https://ubuntu.com/pro).
-
-
-### Credits
-
-Large parts of this guide are based on documentation written by open-source communities. We wish to thank them for their work:
-
-* The [GNOME User Documentation](https://gitlab.gnome.org/GNOME/gnome-user-docs) project
-* The [Orca screen reader](https://gitlab.gnome.org/GNOME/orca) documentation
-* The [Ubuntu Desktop Guide](https://launchpad.net/ubuntu/+source/ubuntu-docs) project
