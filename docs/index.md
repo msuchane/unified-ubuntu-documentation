@@ -53,8 +53,8 @@ As an open source project, Ubuntu warmly welcomes community projects, contributi
 ### Get involved
 
 * Get [community support](https://ubuntu.com/support/community-support)
-* Join our [Discourse forum](https://discourse.ubuntu.com/)
-* Join our [online chat on Matrix](https://matrix.to/#/#community:ubuntu.com)
+* Join our [Discourse forum](https://discourse.ubuntu.com/) with spaces for [Ubuntu Desktop](https://discourse.ubuntu.com/c/project/desktop/) and [Ubuntu Server](https://discourse.ubuntu.com/c/project/server/17).
+* Join our [online chat on Matrix](https://matrix.to/#/#community:ubuntu.com) with rooms for [Ubuntu Desktop](https://matrix.to/#/#desktop-dev:ubuntu.com) and [Ubuntu Server](https://matrix.to/#/#server:ubuntu.com).
 * [Contribute to this documentation](https://github.com/ubuntu/ubuntu-os-documentation/blob/main/CONTRIBUTING.md)
 
 ### Releases

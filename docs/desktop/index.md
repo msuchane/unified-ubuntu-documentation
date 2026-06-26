@@ -32,20 +32,6 @@ _tags/tagsindex
 * **Customization**: {ref}`change-the-default-terminal` • {ref}`start-an-application-at-login`
 
 
-(project-and-community)=
-## Project and community
-
-Ubuntu Desktop is one of the main versions of the Ubuntu operating system, alongside [Ubuntu Server](https://ubuntu.com/server), [Ubuntu on WSL](https://ubuntu.com/wsl) and [Ubuntu Core](https://ubuntu.com/core).
-
-As an open source project, Ubuntu Desktop warmly welcomes community projects, contributions, suggestions, fixes and constructive feedback.
-
-### Get involved
-
-* Get [community support](https://ubuntu.com/support/community-support)
-* Join our [Discourse forum](https://discourse.ubuntu.com/c/project/desktop/)
-* Join our [online chat on Matrix](https://matrix.to/#/#desktop-dev:ubuntu.com)
-* [Contribute to this documentation](https://github.com/ubuntu/ubuntu-desktop-documentation/blob/main/CONTRIBUTING.md)
-
 ### Credits
 
 Large parts of this guide are based on documentation written by open-source communities. We wish to thank them for their work:
