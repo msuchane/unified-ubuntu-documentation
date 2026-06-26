@@ -1,6 +1,5 @@
+(server)=
 # Ubuntu Server documentation
-
-TODO
 
 :::{toctree}
 :hidden:

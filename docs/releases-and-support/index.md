@@ -1,6 +1,5 @@
+(releases-and-support)=
 # Ubuntu releases and support
-
-TODO
 
 :::{toctree}
 :hidden:

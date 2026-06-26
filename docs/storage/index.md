@@ -1,6 +1,5 @@
+(storage)=
 # Storage on Ubuntu
-
-TODO
 
 :::{toctree}
 :hidden:

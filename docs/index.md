@@ -32,10 +32,21 @@ _tags/tagsindex
 :::
 -->
 
+## In this documentation
+
+* **{ref}`Ubuntu Desktop <desktop>`**: Using the graphical desktop environment.
+* **{ref}`Ubuntu Server <server>`**: Managing Ubuntu in server environments.
+* **{ref}`Releases and support <releases-and-support>`**: Ubuntu release cycle, versions and long-term support.
+* **{ref}`Software management <software-management>`**: Installing, updating and managing apps or software packages.
+* **{ref}`Security <security>`**: Hardening Ubuntu and managing security features.
+* **{ref}`Networking <networking>`**: Configuring network connections and services.
+* **{ref}`Storage <storage>`**: Managing disks, file systems and storage devices.
+* **{ref}`Virtualization <virtualization>`**: Running virtual machines and containers on Ubuntu.
+
 
 ## How this documentation is organized
 
-This documentation uses the [Diátaxis documentation structure](https://diataxis.fr/).
+This documentation is divided into several subject areas, each covering a distinct aspect of Ubuntu. Within each area, content follows the [Diátaxis documentation structure](https://diataxis.fr/).
 
 * **Tutorials** take you step-by-step through installing Ubuntu and exploring the user interface.
 * **How-to guides** assume you have basic familiarity with Ubuntu. They cover various common tasks and specialized use cases.
