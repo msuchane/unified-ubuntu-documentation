@@ -68,7 +68,7 @@ html_context = {
     "mattermost": "https://chat.canonical.com/canonical/channels/desktop",
     # Your Matrix channel URL
     # TODO: Change to your Matrix channel URL or leave empty.
-    "matrix": "https://matrix.to/#/#desktop-dev:ubuntu.com",
+    "matrix": "https://matrix.to/#/#community:ubuntu.com",
     # Your documentation GitHub repository URL If set, links for viewing the
     # documentation source files and creating GitHub issues are added at the bottom of
     # each page.
