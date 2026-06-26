@@ -42,6 +42,7 @@ _tags/tagsindex
 * **{ref}`Security <security>`**: Hardening Ubuntu and managing security features.
 * **{ref}`Networking <networking>`**: Configuring network connections and services.
 * **{ref}`Storage <storage>`**: Managing disks, file systems and storage devices.
+ **{ref}`Authentication <storage>`**: Configuring user login and enterprise credentials.
 * **{ref}`Virtualization <virtualization>`**: Running virtual machines and containers on Ubuntu.
 
 
