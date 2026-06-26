@@ -3,5 +3,8 @@
 :::{toctree}
 :maxdepth: 1
 
-virtualisation
+sssd
+openldap
+kerberos
+AD-integration
 :::

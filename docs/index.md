@@ -19,6 +19,7 @@ Software management </software-management/index>
 Security </security/index>
 Networking </networking/index>
 Storage </storage/index>
+Authentication </authentication/index>
 Virtualization </virtualization/index>
 :::
 
