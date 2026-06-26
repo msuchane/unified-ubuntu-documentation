@@ -1,4 +1,4 @@
-(server)=
+(authentication)=
 # User authentication on Ubuntu
 
 :::{toctree}
