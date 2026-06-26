@@ -2,7 +2,6 @@
 # Ubuntu releases and support
 
 :::{toctree}
-:hidden:
 :maxdepth: 2
 
 Tutorials <tutorial/index.md>

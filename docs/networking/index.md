@@ -2,7 +2,6 @@
 # Networking on Ubuntu
 
 :::{toctree}
-:hidden:
 :maxdepth: 2
 
 Tutorials <tutorial/index.md>

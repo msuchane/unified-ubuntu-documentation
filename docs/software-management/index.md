@@ -1,10 +1,11 @@
 (software-management)=
 # Software management on Ubuntu
 
+<!--
 * **Software and versions**: {ref}`install-or-remove-software` • {ref}`upgrade-ubuntu-desktop` • {ref}`switch-between-an-lts-and-interim-release`
+-->
 
 :::{toctree}
-:hidden:
 :maxdepth: 2
 
 Tutorials <tutorial/index.md>
