@@ -1,3 +1,8 @@
 # How-to
 
-TODO
+:::{toctree}
+:maxdepth: 1
+
+upgrade-ubuntu-desktop
+switch-between-an-lts-and-interim-release
+:::

@@ -1,6 +1,6 @@
 # Software management on Ubuntu
 
-TODO
+* **Software and versions**: {ref}`install-or-remove-software` • {ref}`upgrade-ubuntu-desktop` • {ref}`switch-between-an-lts-and-interim-release`
 
 :::{toctree}
 :hidden:

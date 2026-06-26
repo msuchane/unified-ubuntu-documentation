@@ -37,9 +37,9 @@ _tags/tagsindex
 
 This documentation uses the [Diátaxis documentation structure](https://diataxis.fr/).
 
-* **Tutorials** take you step-by-step through installing Ubuntu Desktop and exploring the user interface.
-* **How-to guides** assume you have basic familiarity with Ubuntu Desktop. They cover various common tasks and specialized use cases.
-* **References** provide cheat sheets, specifications and details on the Ubuntu Desktop architecture.
+* **Tutorials** take you step-by-step through installing Ubuntu and exploring the user interface.
+* **How-to guides** assume you have basic familiarity with Ubuntu. They cover various common tasks and specialized use cases.
+* **References** provide cheat sheets, specifications and details on the Ubuntu architecture.
 * **Explanations** include topic overviews, background and context and detailed discussion.
 
 

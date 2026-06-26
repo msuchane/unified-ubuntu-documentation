@@ -1,6 +1,6 @@
 # Security on Ubuntu
 
-TODO
+* **Security**: {ref}`hardware-backed-disk-encryption` • {ref}`Smart card login <log-in-using-a-smart-card>` • {ref}`Smart card in your web browser <enable-smart-cards-in-snapped-browsers>`
 
 :::{toctree}
 :hidden:

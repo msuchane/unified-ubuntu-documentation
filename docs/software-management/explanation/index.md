@@ -1,3 +1,7 @@
 # Explanation
 
-TODO
+:::{toctree}
+:maxdepth: 1
+
+snap-and-deb-packages
+:::
