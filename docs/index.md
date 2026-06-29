@@ -32,18 +32,35 @@ _tags/tagsindex
 
 ## In this documentation
 
+### Point of entry
+
 * **{ref}`Installation <installation>`**: Installing Ubuntu on your system.
+
+### Essential layers
+
 * **{ref}`Desktop environment <desktop>`**: Using the graphical desktop environment.
-* **{ref}`Releases and support <releases-and-support>`**: Ubuntu release cycle, versions and long-term support.
 * **{ref}`Software management <software-management>`**: Installing, updating and managing apps or software packages.
-* **{ref}`Security <security>`**: Hardening Ubuntu and managing security features.
-* **{ref}`Networking <networking>`**: Configuring network connections and services.
-* **{ref}`Storage <storage>`**: Managing disks, file systems and storage devices.
-* **{ref}`Authentication <storage>`**: Configuring user login and enterprise credentials.
-* **{ref}`Virtualization and containers <virtualization>`**: Running virtual machines and containers on Ubuntu.
+
+### Features
+
 * **{ref}`Servers <servers>`**: Deploying services on Ubuntu.
-* **{ref}`Performance <performance>`**: Monitoring and tuning Ubuntu performance.
+* **{ref}`Virtualization and containers <virtualization>`**: Running virtual machines and containers on Ubuntu.
+
+### Resources and interfaces
+
+* **{ref}`Storage <storage>`**: Managing disks, file systems and storage devices.
+* **{ref}`Networking <networking>`**: Configuring network connections and services.
+* **{ref}`Authentication <storage>`**: Configuring user login and enterprise credentials.
 * **{ref}`Windows integration <windows-integration>`**: Connecting Ubuntu to Microsoft Windows services.
+
+### Quality
+
+* **{ref}`Security <security>`**: Hardening Ubuntu and managing security features.
+* **{ref}`Performance <performance>`**: Monitoring and tuning Ubuntu performance.
+
+### Lifecycle
+
+* **{ref}`Releases and support <releases-and-support>`**: Ubuntu release cycle, versions and long-term support.
 
 
 ## How this documentation is organized
