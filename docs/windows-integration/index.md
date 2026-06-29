@@ -1,5 +1,5 @@
-(virtualization)=
-# Virtualization and containers on Ubuntu
+(windows-integration)=
+# Ubuntu integration with Windows
 
 :::{toctree}
 :maxdepth: 2

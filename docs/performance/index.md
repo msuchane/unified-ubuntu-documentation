@@ -1,5 +1,5 @@
-(virtualization)=
-# Virtualization and containers on Ubuntu
+(performance)=
+# Performance tuning on Ubuntu
 
 :::{toctree}
 :maxdepth: 2

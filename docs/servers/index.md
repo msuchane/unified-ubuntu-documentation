@@ -1,5 +1,5 @@
-(virtualization)=
-# Virtualization and containers on Ubuntu
+(servers)=
+# Servers on Ubuntu
 
 :::{toctree}
 :maxdepth: 2

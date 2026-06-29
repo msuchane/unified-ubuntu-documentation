@@ -15,6 +15,9 @@ Networking </networking/index>
 Storage </storage/index>
 Authentication </authentication/index>
 Virtualization </virtualization/index>
+Servers </servers/index>
+Performance </performance/index>
+Windows integration </windows-integration/index>
 :::
 
 <!--
@@ -36,8 +39,11 @@ _tags/tagsindex
 * **{ref}`Security <security>`**: Hardening Ubuntu and managing security features.
 * **{ref}`Networking <networking>`**: Configuring network connections and services.
 * **{ref}`Storage <storage>`**: Managing disks, file systems and storage devices.
- **{ref}`Authentication <storage>`**: Configuring user login and enterprise credentials.
-* **{ref}`Virtualization <virtualization>`**: Running virtual machines and containers on Ubuntu.
+* **{ref}`Authentication <storage>`**: Configuring user login and enterprise credentials.
+* **{ref}`Virtualization and containers <virtualization>`**: Running virtual machines and containers on Ubuntu.
+* **{ref}`Servers <servers>`**: Deploying services on Ubuntu.
+* **{ref}`Performance <performance>`**: Monitoring and tuning Ubuntu performance.
+* **{ref}`Windows integration <windows-integration>`**: Connecting Ubuntu to Microsoft Windows services.
 
 
 ## How this documentation is organized
