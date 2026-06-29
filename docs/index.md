@@ -14,6 +14,7 @@ Server </server/index>
 :hidden:
 :maxdepth: 2
 
+Installation </installation/index>
 Releases and support </releases-and-support/index>
 Software management </software-management/index>
 Security </security/index>
@@ -37,6 +38,7 @@ _tags/tagsindex
 
 * **{ref}`Ubuntu Desktop <desktop>`**: Using the graphical desktop environment.
 * **{ref}`Ubuntu Server <server>`**: Managing Ubuntu in server environments.
+* **{ref}`Installation <installation>`**: Installing Ubuntu on your system.
 * **{ref}`Releases and support <releases-and-support>`**: Ubuntu release cycle, versions and long-term support.
 * **{ref}`Software management <software-management>`**: Installing, updating and managing apps or software packages.
 * **{ref}`Security <security>`**: Hardening Ubuntu and managing security features.
