@@ -8,16 +8,16 @@ Ubuntu is an open-source operating system powering millions of PCs, laptops and 
 
 Installation </installation/index>
 Desktop </desktop/index>
-Releases and support </releases-and-support/index>
 Software management </software-management/index>
-Security </security/index>
-Networking </networking/index>
-Storage </storage/index>
-Authentication </authentication/index>
-Virtualization </virtualization/index>
 Servers </servers/index>
-Performance </performance/index>
+Virtualization </virtualization/index>
+Storage </storage/index>
+Networking </networking/index>
+Authentication </authentication/index>
 Windows integration </windows-integration/index>
+Security </security/index>
+Performance </performance/index>
+Releases and support </releases-and-support/index>
 :::
 
 <!--
