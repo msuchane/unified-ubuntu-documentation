@@ -7,7 +7,6 @@ Our explanatory and conceptual guides are written to provide a better understand
 :maxdepth: 2
 about-ubuntu-desktop
 hardware-stack
-accessibility-stack
 why-we-use-the-terminal-on-linux
 what-is-the-menu-key
 :::

@@ -1,6 +1,5 @@
 (reference-accessibility)=
-# Accessibility
-
+# Reference
 
 :::{toctree}
 :maxdepth: 1

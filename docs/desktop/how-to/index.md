@@ -11,6 +11,5 @@ change-the-default-terminal
 share-your-desktop-remotely
 access-a-remote-desktop
 start-an-application-at-login
-accessibility/index
 troubleshoot/index
 :::

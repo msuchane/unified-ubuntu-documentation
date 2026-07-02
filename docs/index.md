@@ -15,6 +15,7 @@ Storage </storage/index>
 Networking </networking/index>
 Authentication </authentication/index>
 Windows integration </windows-integration/index>
+Accessibility </accessibility/index>
 Security </security/index>
 Performance </performance/index>
 Releases and support </releases-and-support/index>
@@ -55,6 +56,7 @@ _tags/tagsindex
 
 ### Quality
 
+* **{ref}`Accessibility <accessibility>`**: Enabling assistive technologies to support users with impairments and special needs.
 * **{ref}`Security <security>`**: Hardening Ubuntu and managing security features.
 * **{ref}`Performance <performance>`**: Monitoring and tuning Ubuntu performance.
 
