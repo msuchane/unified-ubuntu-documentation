@@ -21,6 +21,12 @@ Performance </performance/index>
 Releases and support </releases-and-support/index>
 :::
 
+:::{toctree}
+:hidden:
+:maxdepth: 2
+
+Contributing </contributing/index>
+:::
 <!--
 :::{toctree}
 :caption: Content by topics
