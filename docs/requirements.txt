@@ -7,10 +7,8 @@ sphinx-autobuild
 sphinx-design==0.6.1
 sphinx-notfound-page~=1.1
 sphinx-reredirects==0.1.6
-sphinx-tabs~=3.5
 sphinxcontrib-jquery~=4.1
 sphinxext-opengraph~=0.13
-sphinx-rerediraffe>=0.0.3, <1.0.0
 
 # Extra extensions, previously bundled as canonical-sphinx-extensions
 sphinx-config-options~=0.1
@@ -20,7 +18,6 @@ sphinx-related-links~=0.1
 sphinx-roles~=0.1
 sphinx-terminal~=1.0
 sphinx-ubuntu-images~=0.1
-sphinx-youtube-links~=0.1
 
 # Other dependencies
 packaging~=26.1
@@ -35,3 +32,15 @@ vale~=3.13
 
 # Enable Sphinx Tags
 sphinx-tags
+
+# Custom dependencies
+#GitPython
+#furo
+linkify-it-py
+pyspelling
+sphinx
+sphinx-copybutton
+sphinx-hoverxref
+sphinxcontrib-mermaid
+sphinxext-rediraffe
+watchfiles

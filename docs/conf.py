@@ -99,6 +99,18 @@ html_context = {
         # TODO: Link directly to your project's license statement.
         "url": "",
     },
+
+    # Links for the "Ubuntu docs" dropdown in the site header
+    "ubuntu_docs": [
+        {"title": "Ubuntu release notes",  "url": "https://documentation.ubuntu.com/release-notes/"},
+        {"title": "Ubuntu security",       "url": "https://documentation.ubuntu.com/security/"},
+        {"title": "Ubuntu Desktop",        "url": "https://ubuntu.com/desktop/docs"},
+        {"title": "Ubuntu Server",         "url": "https://ubuntu.com/server/docs/"},
+        {"title": "Ubuntu on WSL",         "url": "https://documentation.ubuntu.com/wsl/latest/"},
+        {"title": "Ubuntu for developers", "url": "https://documentation.ubuntu.com/ubuntu-for-developers/"},
+        {"title": "Ubuntu project",        "url": "https://ubuntu.com/project/docs"},
+        {"title": "Ubuntu Pro",            "url": "https://documentation.ubuntu.com/pro/"},
+    ],
 }
 
 # TODO: To enable the edit button on pages, uncomment and change the link to a
@@ -235,17 +247,23 @@ linkcheck_workers = 20
 #   - linkify
 myst_enable_extensions = {
     "colon_fence",
+    "dollarmath",
+    "tasklist",
+    "fieldlist",
+    "substitution",
+    "html_admonition",
 }
 
 # Custom Sphinx extensions; see
 # https://www.sphinx-doc.org/en/master/usage/extensions/index.html
 extensions = [
-    "canonical_sphinx",
+# Included in the Starter Pack
+# ----------------------------
+    "canonical_sphinx", # REQUIRED for the Starter Pack
     "notfound.extension",
     "sphinx_design",
-    "sphinx_rerediraffe",
     "sphinx_reredirects",
-    "sphinx_tabs.tabs",
+#    "sphinx_tabs.tabs",
     "sphinxcontrib.jquery",
     "sphinxext.opengraph",
     "sphinx_config_options",
@@ -256,12 +274,20 @@ extensions = [
     "sphinx_roles",
     "sphinx_terminal",
     "sphinx_ubuntu_images",
-    "sphinx_youtube_links",
+#    "sphinx_youtube_links",
     "sphinxcontrib.cairosvgconverter",
     "sphinx_last_updated_by_git",
     "sphinx.ext.intersphinx",
     "sphinx_sitemap",
+# Custom extensions in this project
+# ---------------------------------
+    "myst_parser",
     "sphinx_tags",
+    "sphinx.ext.extlinks",
+    "hoverxref.extension",
+    "sphinxext.rediraffe",
+    "sphinxcontrib.mermaid",
+    "sphinx_copybutton",
 ]
 
 # Excludes files or directories from processing
@@ -303,8 +329,13 @@ rst_epilog = """
 # NOTE: If set, adding ':manpage:' to an .rst file
 #       adds a link to the corresponding man section at the bottom of the page.
 
-manpages_url = 'https://manpages.ubuntu.com/manpages/lts/en/' + \
-    'man{section}/{page}.{section}.html'
+stable_distro = "resolute"
+
+manpages_url = (
+    "https://manpages.ubuntu.com/manpages/"
+    + stable_distro
+    + "/man{section}/{page}.{section}.html"
+)
 
 
 # Specifies a reST snippet to be prepended to each .rst file
@@ -326,6 +357,26 @@ rst_prolog = """
 if os.path.exists("./reuse/substitutions.yaml"):
     with open("./reuse/substitutions.yaml", "r") as fd:
         myst_substitutions = yaml.safe_load(fd.read())
+
+myst_heading_anchors = 3
+
+# Prevent copying of continuation prompts in code blocks
+copybutton_selector = "span.copybutton, div:not(.terminal-code) > div.highlight > pre"
+copybutton_prompt_text = "> |"
+copybutton_prompt_is_regexp = True
+
+# Configure hoverxref options
+hoverxref_role_types = {
+    "term": "tooltip",
+}
+hoverxref_roles = ["term",]
+
+# Allow for use of link substitutions
+extlinks = {
+    "lpsrc": ("https://launchpad.net/ubuntu/+source/%s", "%s"),
+    "lpbug": ("https://bugs.launchpad.net/bugs/%s", "LP: #%s"),
+    "matrix": ("https://matrix.to/#/#%s:ubuntu.com", "#%s:ubuntu.com"),
+}
 
 # Configuration for Intersphinx projects
 
