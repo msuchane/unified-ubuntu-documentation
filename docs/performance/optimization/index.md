@@ -4,8 +4,8 @@ myst:
     description: System performance tuning concepts and tools for Ubuntu Server including CPU power management, hardware locality, and workload optimization.
 ---
 
-(performance)=
-# Performance
+(optimization)=
+# Optimization
 
 This area of the documentation is about system tuning and will list various tools that can either help to determine the state of the system or to tune it for a given workload.
 

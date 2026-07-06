@@ -6,4 +6,5 @@
 
 about-openstack
 clouds/index
+high-availability/index
 ```
