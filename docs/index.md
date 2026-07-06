@@ -7,18 +7,24 @@ Ubuntu is an open-source operating system powering millions of PCs, laptops and 
 :maxdepth: 2
 
 Installation </installation/index>
-Desktop </desktop/index>
-Software management </software-management/index>
+Learn Ubuntu </learn-ubuntu/index>
+
+Software </software/index>
+System management </system-management/index>
+
 Servers </servers/index>
 Virtualization </virtualization/index>
+
 Storage </storage/index>
 Networking </networking/index>
 Authentication </authentication/index>
 Windows integration </windows-integration/index>
+
 Accessibility </accessibility/index>
 Security </security/index>
 Performance </performance/index>
-Releases and support </releases-and-support/index>
+
+Enterprise </enterprise/index>
 :::
 
 :::{toctree}
@@ -27,6 +33,7 @@ Releases and support </releases-and-support/index>
 
 Contributing </contributing/index>
 :::
+
 <!--
 :::{toctree}
 :caption: Content by topics
@@ -39,19 +46,24 @@ _tags/tagsindex
 
 ## In this documentation
 
+
 ### Point of entry
 
 * **{ref}`Installation <installation>`**: Installing Ubuntu on your system.
+* **{ref}`Learn Ubuntu <learn-ubuntu>`**: Introduction for new Ubuntu users.
+
 
 ### Essential layers
 
-* **{ref}`Desktop environment <desktop>`**: Using the graphical desktop environment.
 * **{ref}`Software management <software-management>`**: Installing, updating and managing apps or software packages.
+* **{ref}`System management <system-management>`**: Managing your Ubuntu system.
+
 
 ### Features
 
 * **{ref}`Servers <servers>`**: Deploying services on Ubuntu.
 * **{ref}`Virtualization and containers <virtualization>`**: Running virtual machines and containers on Ubuntu.
+
 
 ### Resources and interfaces
 
@@ -60,15 +72,17 @@ _tags/tagsindex
 * **{ref}`Authentication <storage>`**: Configuring user login and enterprise credentials.
 * **{ref}`Windows integration <windows-integration>`**: Connecting Ubuntu to Microsoft Windows services.
 
+
 ### Quality
 
 * **{ref}`Accessibility <accessibility>`**: Enabling assistive technologies to support users with impairments and special needs.
 * **{ref}`Security <security>`**: Hardening Ubuntu and managing security features.
 * **{ref}`Performance <performance>`**: Monitoring and tuning Ubuntu performance.
 
-### Lifecycle
 
-* **{ref}`Releases and support <releases-and-support>`**: Ubuntu release cycle, versions and long-term support.
+### Customer use-case
+
+* **{ref}`Enterprise <enterprise>`**: Features for enterprise users.
 
 
 ## How this documentation is organized
