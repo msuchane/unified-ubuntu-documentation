@@ -17,6 +17,8 @@ Authentication </authentication/index>
 Windows integration </windows-integration/index>
 Accessibility </accessibility/index>
 Security </security/index>
+Observability </observability/index>
+Debugging </debugging/index>
 Performance </performance/index>
 Releases and support </releases-and-support/index>
 Enterprise </enterprise/index>
