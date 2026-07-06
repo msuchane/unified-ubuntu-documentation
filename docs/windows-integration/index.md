@@ -4,6 +4,7 @@
 :::{toctree}
 :maxdepth: 2
 
+ubuntu-on-hyper-v
 active-directory/index
 samba/index
 :::

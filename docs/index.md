@@ -19,6 +19,7 @@ Accessibility </accessibility/index>
 Security </security/index>
 Performance </performance/index>
 Releases and support </releases-and-support/index>
+Enterprise </enterprise/index>
 :::
 
 :::{toctree}
