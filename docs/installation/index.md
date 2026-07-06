@@ -9,4 +9,5 @@ Tutorials <tutorial/index.md>
 How-to guides <how-to/index.md>
 Reference <reference/index.md>
 Explanation <explanation/index.md>
+disk-encryption/index
 :::
