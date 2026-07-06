@@ -4,8 +4,11 @@
 :::{toctree}
 :maxdepth: 2
 
-Tutorials <tutorial/index.md>
-How-to guides <how-to/index.md>
-Reference <reference/index.md>
-Explanation <explanation/index.md>
+about-lvm
+manage-logical-volumes
+iscsi-initiator-or-client
+backups/index
+databases/index
+multipath/index
+openldap/index
 :::
