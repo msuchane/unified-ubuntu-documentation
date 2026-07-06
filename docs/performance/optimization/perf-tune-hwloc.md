@@ -217,7 +217,7 @@ Keyboard shortcuts:
 
 Output (GUI):
 
-![hwlowc-ls UI](../images/hwloc-example.png)
+![hwlowc-ls UI](../../images/hwloc-example.png)
 
 ## Further reading
 

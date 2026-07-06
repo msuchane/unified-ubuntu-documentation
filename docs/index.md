@@ -2,34 +2,7 @@
 
 Ubuntu is an open-source operating system powering millions of PCs, laptops and servers around the world.
 
-:::{toctree}
-:hidden:
-:maxdepth: 2
 
-Installation </installation/index>
-Desktop </desktop/index>
-Software management </software-management/index>
-Servers </servers/index>
-Virtualization </virtualization/index>
-Storage </storage/index>
-Networking </networking/index>
-Authentication </authentication/index>
-Windows integration </windows-integration/index>
-Accessibility </accessibility/index>
-Security </security/index>
-Observability </observability/index>
-Debugging </debugging/index>
-Performance </performance/index>
-Releases and support </releases-and-support/index>
-Enterprise </enterprise/index>
-:::
-
-:::{toctree}
-:hidden:
-:maxdepth: 2
-
-Contributing </contributing/index>
-:::
 <!--
 :::{toctree}
 :caption: Content by topics
@@ -44,19 +17,52 @@ _tags/tagsindex
 
 ### Point of entry
 
+:::{toctree}
+:hidden:
+:maxdepth: 2
+
+Installation </installation/index>
+:::
+
 * **{ref}`Installation <installation>`**: Installing Ubuntu on your system.
 
 ### Essential layers
+
+:::{toctree}
+:hidden:
+:maxdepth: 2
+
+Desktop </desktop/index>
+Software management </software-management/index>
+:::
 
 * **{ref}`Desktop environment <desktop>`**: Using the graphical desktop environment.
 * **{ref}`Software management <software-management>`**: Installing, updating and managing apps or software packages.
 
 ### Features
 
+:::{toctree}
+:hidden:
+:maxdepth: 2
+
+Servers </servers/index>
+Virtualization </virtualization/index>
+:::
+
 * **{ref}`Servers <servers>`**: Deploying services on Ubuntu.
 * **{ref}`Virtualization and containers <virtualization>`**: Running virtual machines and containers on Ubuntu.
 
 ### Resources and interfaces
+
+:::{toctree}
+:hidden:
+:maxdepth: 2
+
+Storage </storage/index>
+Networking </networking/index>
+Authentication </authentication/index>
+Windows integration </windows-integration/index>
+:::
 
 * **{ref}`Storage <storage>`**: Managing disks, file systems and storage devices.
 * **{ref}`Networking <networking>`**: Configuring network connections and services.
@@ -65,13 +71,44 @@ _tags/tagsindex
 
 ### Quality
 
+:::{toctree}
+:hidden:
+:maxdepth: 2
+
+Accessibility </accessibility/index>
+Security </security/index>
+Performance </performance/index>
+:::
+
 * **{ref}`Accessibility <accessibility>`**: Enabling assistive technologies to support users with impairments and special needs.
 * **{ref}`Security <security>`**: Hardening Ubuntu and managing security features.
 * **{ref}`Performance <performance>`**: Monitoring and tuning Ubuntu performance.
 
 ### Lifecycle
 
+:::{toctree}
+:hidden:
+:maxdepth: 2
+
+Releases and support </releases-and-support/index>
+:::
 * **{ref}`Releases and support <releases-and-support>`**: Ubuntu release cycle, versions and long-term support.
+
+### Customer use-case
+
+:::{toctree}
+:maxdepth: 2
+
+Enterprise </enterprise/index>
+:::
+
+
+:::{toctree}
+:hidden:
+:maxdepth: 2
+
+Contributing </contributing/index>
+:::
 
 
 ## How this documentation is organized
