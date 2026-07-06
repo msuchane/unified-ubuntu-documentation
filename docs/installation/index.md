@@ -5,9 +5,13 @@
 :hidden:
 :maxdepth: 2
 
-Tutorials <tutorial/index.md>
-How-to guides <how-to/index.md>
-Reference <reference/index.md>
-Explanation <explanation/index.md>
+create-a-bootable-usb-stick
+try-ubuntu-desktop
+install-ubuntu-desktop
+install-ubuntu-server
+attach-your-ubuntu-pro-subscription
+system-requirements
+autoinstallation/index
 disk-encryption/index
+advanced-installation/index
 :::
