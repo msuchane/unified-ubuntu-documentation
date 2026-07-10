@@ -7,8 +7,9 @@ Ubuntu is an open-source operating system powering millions of PCs, laptops and 
 :maxdepth: 2
 
 Installation </installation/index>
-Learn Ubuntu </learn-ubuntu/index>
+Learn the command line </learn-cli/index>
 
+Graphical interface </graphical-interface/index>
 Software </software/index>
 System management </system-management/index>
 Storage </storage/index>
@@ -50,7 +51,7 @@ _tags/tagsindex
 ### Point of entry
 
 * **{ref}`Installation <installation>`**: Installing Ubuntu on your system.
-* **{ref}`Learn Ubuntu <learn-ubuntu>`**: Introduction for new Ubuntu users.
+* **{ref}`Learn the command line <learn-cli>`**: Introduction to the Ubuntu command line for new users.
 
 
 ### Essential layers

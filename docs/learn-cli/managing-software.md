@@ -14,7 +14,7 @@ To help you get the most from your Ubuntu experience, this tutorial will walk yo
 If you are re-using a virtual machine from a different tutorial, skip directly to {ref}`update-with-apt`.
 
 % Include the multipass install instructions common to all tutorials
-```{include} ./command-line-interface/common-multipass.txt
+```{include} /reuse/common-multipass.txt
 ```
 
 

@@ -11,7 +11,7 @@ On Ubuntu Server, the terminal is the primary way of interacting with your syste
 It's easier to use than you might think, and learning it gives you much more control over your system (including on your Ubuntu Desktop). In this tutorial, you will learn how to use the terminal to navigate your Ubuntu system, find and work with files, and where to find help if you get stuck.
 
 % Include the multipass install instructions common to all tutorials
-```{include} common-multipass.txt
+```{include} /reuse/common-multipass.txt
 ```
 
 
@@ -62,7 +62,7 @@ You may be wondering: "why we need a shell at all? Why can't we just tell the op
 
 This is a good question. The simple answer is that while you *can* use the Desktop's Graphical User Interface (GUI) to interact with your computer, the shell is much more resource-efficient and faster, since it doesn't need to handle computationally expensive graphics. Servers rarely even have a GUI installed for precisely this reason.
 
-![shell](../../images/shells.svg)
+![shell](/images/shells.svg)
 
 For simple tasks, like renaming a single file, there's little difference between using your GUI and the CLI to complete it. However, if you need to rename 1,000 files to include the date they were created in the name, this would be a tiresome and time-consuming task to do in the GUI -- lots of clicking and typing. Using the CLI, you can pull in the date automatically, set the pattern you want the names to follow, and have all 1,000 files renamed instantly.
 
