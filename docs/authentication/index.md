@@ -4,6 +4,7 @@
 :::{toctree}
 :maxdepth: 2
 
+openldap/index
 sssd/index
 kerberos/index
 smart-cards/index
