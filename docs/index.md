@@ -13,7 +13,9 @@ Software </software/index>
 System management </system-management/index>
 
 Servers </servers/index>
+Clouds <clouds/index>
 Virtualization </virtualization/index>
+High availability <high-availability/index>
 
 Storage </storage/index>
 Networking </networking/index>
@@ -23,8 +25,6 @@ Windows integration </windows-integration/index>
 Accessibility </accessibility/index>
 Security </security/index>
 Performance </performance/index>
-
-Enterprise </enterprise/index>
 :::
 
 :::{toctree}
@@ -62,7 +62,9 @@ _tags/tagsindex
 ### Features
 
 * **{ref}`Servers <servers>`**: Deploying services on Ubuntu.
+* **{ref}`Clouds <clouds>`**: Deploying and provisioning Ubuntu on cloud infrastructure.
 * **{ref}`Virtualization and containers <virtualization>`**: Running virtual machines and containers on Ubuntu.
+* **{ref}`High availability <high-availability>`**: Keeping services running through redundancy, failover and load balancing.
 
 
 ### Resources and interfaces
@@ -79,10 +81,6 @@ _tags/tagsindex
 * **{ref}`Security <security>`**: Hardening Ubuntu and managing security features.
 * **{ref}`Performance <performance>`**: Monitoring and tuning Ubuntu performance.
 
-
-### Customer use-case
-
-* **{ref}`Enterprise <enterprise>`**: Features for enterprise users.
 
 
 ## How this documentation is organized
