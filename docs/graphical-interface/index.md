@@ -12,9 +12,7 @@ record-the-screen
 share-your-desktop-remotely
 access-a-remote-desktop
 start-an-application-at-login
-
-
 keyboard-navigation-shortcuts
-
+Install NVIDIA drivers <install-nvidia-drivers>
 troubleshoot/index
 ```

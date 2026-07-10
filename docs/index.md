@@ -56,6 +56,7 @@ _tags/tagsindex
 
 ### Essential layers
 
+* **{ref}`Graphical interface <graphical-interface>`**: Using Ubuntu as a graphical, desktop system.
 * **{ref}`Software management <software-management>`**: Installing, updating and managing apps or software packages.
 * **{ref}`System management <system-management>`**: Managing your Ubuntu system.
 * **{ref}`Storage <storage>`**: Managing disks, file systems and storage devices.
