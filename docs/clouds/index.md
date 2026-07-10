@@ -5,7 +5,7 @@ myst:
 ---
 
 (clouds)=
-# Clouds
+# Ubuntu on Cloud infrastructure
 
 Clouds are networks of remote servers providing services via the internet. They have become a popular way to manage storage, software and processing without the need to host physical servers yourself.
 

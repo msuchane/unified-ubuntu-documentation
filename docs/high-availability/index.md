@@ -5,7 +5,7 @@ myst:
 ---
 
 (high-availability)=
-# High Availability
+# High Availability on Ubuntu
 
 High Availability is a way to ensure minimal downtime if and when system failures occur by using redundancy, failover and load balancing to keep services running.
 

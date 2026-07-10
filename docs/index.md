@@ -11,15 +11,15 @@ Learn Ubuntu </learn-ubuntu/index>
 
 Software </software/index>
 System management </system-management/index>
+Storage </storage/index>
+Networking </networking/index>
+Authentication </authentication/index>
 
 Servers </servers/index>
 Clouds <clouds/index>
 Virtualization </virtualization/index>
 High availability <high-availability/index>
 
-Storage </storage/index>
-Networking </networking/index>
-Authentication </authentication/index>
 Windows integration </windows-integration/index>
 
 Accessibility </accessibility/index>
@@ -57,6 +57,9 @@ _tags/tagsindex
 
 * **{ref}`Software management <software-management>`**: Installing, updating and managing apps or software packages.
 * **{ref}`System management <system-management>`**: Managing your Ubuntu system.
+* **{ref}`Storage <storage>`**: Managing disks, file systems and storage devices.
+* **{ref}`Networking <networking>`**: Configuring network connections and services.
+* **{ref}`Authentication <storage>`**: Configuring user login and enterprise credentials.
 
 
 ### Features
@@ -69,9 +72,6 @@ _tags/tagsindex
 
 ### Resources and interfaces
 
-* **{ref}`Storage <storage>`**: Managing disks, file systems and storage devices.
-* **{ref}`Networking <networking>`**: Configuring network connections and services.
-* **{ref}`Authentication <storage>`**: Configuring user login and enterprise credentials.
 * **{ref}`Windows integration <windows-integration>`**: Connecting Ubuntu to Microsoft Windows services.
 
 
