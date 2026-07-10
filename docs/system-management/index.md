@@ -7,5 +7,4 @@
 releases-and-support/index
 system-utilities/index
 hardware/index
-graphics/index
 :::
