@@ -4,8 +4,8 @@ myst:
     description: Understanding cloud computing and cloud-init provisioning for Ubuntu Server deployment across cloud providers and infrastructures.
 ---
 
-(explanation-cloud-images)=
-# Clouds
+(clouds)=
+# Ubuntu on Cloud infrastructure
 
 Clouds are networks of remote servers providing services via the internet. They have become a popular way to manage storage, software and processing without the need to host physical servers yourself.
 
@@ -35,4 +35,11 @@ For ease of reference, these links in the Public Cloud documentation will take y
 :hidden:
 
 Cloud images <find-cloud-images>
+```
+
+## OpenStack
+
+```{toctree}
+
+about-openstack
 ```

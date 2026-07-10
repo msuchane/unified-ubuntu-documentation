@@ -7,24 +7,25 @@ Ubuntu is an open-source operating system powering millions of PCs, laptops and 
 :maxdepth: 2
 
 Installation </installation/index>
-Learn Ubuntu </learn-ubuntu/index>
+Learn the command line </learn-cli/index>
 
+Graphical interface </graphical-interface/index>
 Software </software/index>
 System management </system-management/index>
-
-Servers </servers/index>
-Virtualization </virtualization/index>
-
 Storage </storage/index>
 Networking </networking/index>
 Authentication </authentication/index>
+
+Servers </servers/index>
+Clouds <clouds/index>
+Virtualization </virtualization/index>
+High availability <high-availability/index>
+
 Windows integration </windows-integration/index>
 
 Accessibility </accessibility/index>
 Security </security/index>
 Performance </performance/index>
-
-Enterprise </enterprise/index>
 :::
 
 :::{toctree}
@@ -50,26 +51,28 @@ _tags/tagsindex
 ### Point of entry
 
 * **{ref}`Installation <installation>`**: Installing Ubuntu on your system.
-* **{ref}`Learn Ubuntu <learn-ubuntu>`**: Introduction for new Ubuntu users.
+* **{ref}`Learn the command line <learn-cli>`**: Introduction to the Ubuntu command line for new users.
 
 
 ### Essential layers
 
 * **{ref}`Software management <software-management>`**: Installing, updating and managing apps or software packages.
 * **{ref}`System management <system-management>`**: Managing your Ubuntu system.
+* **{ref}`Storage <storage>`**: Managing disks, file systems and storage devices.
+* **{ref}`Networking <networking>`**: Configuring network connections and services.
+* **{ref}`Authentication <storage>`**: Configuring user login and enterprise credentials.
 
 
 ### Features
 
 * **{ref}`Servers <servers>`**: Deploying services on Ubuntu.
+* **{ref}`Clouds <clouds>`**: Deploying and provisioning Ubuntu on cloud infrastructure.
 * **{ref}`Virtualization and containers <virtualization>`**: Running virtual machines and containers on Ubuntu.
+* **{ref}`High availability <high-availability>`**: Keeping services running through redundancy, failover and load balancing.
 
 
 ### Resources and interfaces
 
-* **{ref}`Storage <storage>`**: Managing disks, file systems and storage devices.
-* **{ref}`Networking <networking>`**: Configuring network connections and services.
-* **{ref}`Authentication <storage>`**: Configuring user login and enterprise credentials.
 * **{ref}`Windows integration <windows-integration>`**: Connecting Ubuntu to Microsoft Windows services.
 
 
@@ -79,10 +82,6 @@ _tags/tagsindex
 * **{ref}`Security <security>`**: Hardening Ubuntu and managing security features.
 * **{ref}`Performance <performance>`**: Monitoring and tuning Ubuntu performance.
 
-
-### Customer use-case
-
-* **{ref}`Enterprise <enterprise>`**: Features for enterprise users.
 
 
 ## How this documentation is organized

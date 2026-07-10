@@ -10,5 +10,4 @@ iscsi-initiator-or-client
 backups/index
 databases/index
 multipath/index
-openldap/index
 :::

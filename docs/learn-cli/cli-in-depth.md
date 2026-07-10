@@ -12,7 +12,7 @@ In {ref}`welcome-to-the-terminal`, we learned how to navigate the filesystem, wo
 If you are re-using a virtual machine from a different tutorial, skip directly to {ref}`cli-standard-streams`.
 
 % Include the multipass install instructions common to all tutorials
-```{include} common-multipass.txt
+```{include} /reuse/common-multipass.txt
 ```
 
 
@@ -27,7 +27,7 @@ Every program that runs has three open communication channels by default:
 - **Standard output (stdout)** -- the channel through which the program sends its results. By default, this is your terminal screen.
 - **Standard error (stderr)** -- the channel through which the program sends error messages. This also appears on your terminal screen by default, but it is a separate channel from stdout.
 
-![Standard input, output, and error streams](../../images/streams.png)
+![Standard input, output, and error streams](/images/streams.png)
 
 Each stream has a numerical identifier called a **file descriptor**:
 
