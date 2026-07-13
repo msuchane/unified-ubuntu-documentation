@@ -1,3 +1,9 @@
+---
+myst:
+  html_meta:
+    description: Security concepts and best practices for Ubuntu Server including authentication, cryptography, VPNs, and system hardening strategies.
+---
+
 (security)=
 # Security on Ubuntu
 
@@ -16,13 +22,6 @@ cryptography/index
 dnssec/index
 certificates/index
 :::
-
-
----
-myst:
-  html_meta:
-    description: Security concepts and best practices for Ubuntu Server including authentication, cryptography, VPNs, and system hardening strategies.
----
 
 There are many steps you can take to strengthen the security posture of your system. In this section you will find explanations of various concepts related to security.
 
@@ -74,12 +73,3 @@ VPNs are commonly used to provide encrypted, secure access to a network. Two of 
 
 
 While a fresh Ubuntu installation is usually safe for immediate use, there are some additional steps you can take to introduce a layered approach to your system's security. If you are new to Ubuntu, you may want to refer to our {ref}`Introduction to security <introduction-to-security>` first for a general overview.
-
-
-
-
-
-
-
-
-
