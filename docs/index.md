@@ -1,4 +1,4 @@
-# Ubuntu documentation
+# Ubuntu operating system documentation
 
 Ubuntu is an open-source operating system powering millions of PCs, laptops and servers around the world.
 

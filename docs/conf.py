@@ -22,7 +22,7 @@ import yaml
 
 # Project name
 
-project = "Ubuntu"
+project = "Ubuntu OS"
 
 # Author name; used in the default copyright statement in the page footer
 author = "Canonical Ltd."
@@ -35,7 +35,7 @@ copyright = f"{datetime.date.today().year}"
 html_title = project + " documentation"
 
 # Documentation website URL
-ogp_site_url = "https://ubuntu.com/desktop/docs/en/latest/"
+ogp_site_url = "https://documentation.ubuntu.com/unified-ubuntu-documentation/latest/"
 
 
 # Preview name of the documentation website
@@ -55,7 +55,7 @@ html_context = {
     # TODO: Change to your product website URL, dropping the 'https://' prefix (e.g.,
     #       'ubuntu.com/lxd'). If there's no such website, remove the {{ product_page }}
     #       link from the _templates/header.html file.
-    "product_page": "ubuntu.com/desktop",
+    "product_page": "ubuntu.com/os",
     # Product tag image; the orange part of your logo, shown in the page header
     # TODO: To add a tag image, uncomment and update as needed.
     # 'product_tag': '_static/tag.png',
