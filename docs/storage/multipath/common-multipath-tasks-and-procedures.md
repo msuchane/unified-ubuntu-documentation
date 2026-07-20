@@ -4,6 +4,9 @@ myst:
     description: "Learn about common multipath storage tasks and procedures for managing redundant storage paths on Ubuntu Server."
 ---
 
+```{tags} Explanation
+```
+
 (common-multipath-tasks-and-procedures)=
 # Common tasks and procedures
 

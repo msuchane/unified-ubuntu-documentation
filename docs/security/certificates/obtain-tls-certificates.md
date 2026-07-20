@@ -4,6 +4,9 @@ myst:
     description: "Obtain trusted TLS certificates with Let's Encrypt and Certbot on Ubuntu, or set up your own Certificate Authority for internal networks."
 ---
 
+```{tags} How-to guide
+```
+
 (obtain-tls-certificates)=
 # Obtain TLS certificates
 

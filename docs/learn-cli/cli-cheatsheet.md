@@ -4,6 +4,9 @@ myst:
     description: Quick reference sheet for common Ubuntu command-line commands.
 ---
 
+```{tags} Reference
+```
+
 (command-line-cheat-sheet)=
 # Command-line cheat sheet
 

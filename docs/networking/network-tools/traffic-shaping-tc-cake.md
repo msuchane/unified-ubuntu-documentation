@@ -4,6 +4,9 @@ myst:
     description: Set up traffic shaping on Ubuntu using tc and the CAKE qdisc to reduce bufferbloat and prioritize low-latency traffic.
 ---
 
+```{tags} How-to guide
+```
+
 (traffic-shaping-tc-cake)=
 # Traffic shaping with tc and CAKE
 

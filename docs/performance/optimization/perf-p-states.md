@@ -4,6 +4,9 @@ myst:
     description: "Learn about Energy Performance Preference (EPP) settings for optimizing power consumption and performance on Ubuntu Server."
 ---
 
+```{tags} Explanation
+```
+
 (perf-p-states)=
 # CPU Power states
 

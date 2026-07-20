@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (dnssec)=
 # DNSSEC
 

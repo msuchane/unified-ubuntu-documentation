@@ -1,4 +1,4 @@
-```{tags} Accessibility
+```{tags} Accessibility, How-to guide
 ```
 
 (read-screen-in-braille)=

@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (system-utilities)=
 # System utilities
 

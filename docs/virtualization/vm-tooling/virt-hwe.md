@@ -4,6 +4,9 @@ myst:
     description: Installing the hardware enablement (HWE) virtualization stack.
 ---
 
+```{tags} How-to guide
+```
+
 (virt-hwe)=
 # Virtualization Hardware Enablement Stack
 

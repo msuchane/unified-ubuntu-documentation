@@ -4,6 +4,9 @@ myst:
     description: Install and configure Exim4 mail transfer agent using the interactive dpkg-reconfigure wizard for email server setup on Ubuntu, using saslauthd or the exim4 user database.
 ---
 
+```{tags} How-to guide
+```
+
 (install-exim4)=
 # Install and configure Exim4
 

@@ -4,6 +4,9 @@ myst:
     description: Set up peer-to-site WireGuard VPN on an internal system when router installation isn't possible using NAT port forwarding.
 ---
 
+```{tags} How-to guide
+```
+
 (wireguard-on-an-internal-system)=
 # WireGuard on an internal system (peer-to-site)
 

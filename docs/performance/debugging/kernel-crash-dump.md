@@ -4,6 +4,9 @@ myst:
     description: Configure and analyze kernel crash dumps on Ubuntu Server using kdump and kexec to diagnose kernel panics and system failures.
 ---
 
+```{tags} How-to guide
+```
+
 (kernel-crash-dump)=
 # Kernel crash dump
 

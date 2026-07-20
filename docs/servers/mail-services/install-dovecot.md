@@ -4,6 +4,9 @@ myst:
     description: Install and configure Dovecot IMAP and POP3 server with basic SSL configuration.
 ---
 
+```{tags} How-to guide
+```
+
 (install-dovecot)=
 # Install and configure Dovecot
 

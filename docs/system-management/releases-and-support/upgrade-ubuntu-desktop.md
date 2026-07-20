@@ -3,7 +3,7 @@ relatedlinks: "[Upgrading &#32 Lubuntu](https://manual.lubuntu.me/stable/D/upgra
   [Upgrading &#32 to &#32 Ubuntu &#32 Studio &#32; 26.04](https://discourse.ubuntu.com/t/ubuntu-studio-26-04-lts-release-notes/79113#p-204759-upgrading-to-ubuntu-studio-2604-5)"
 ---
 
-```{tags} Updates
+```{tags} Updates, How-to guide
 ```
 
 (upgrade-ubuntu-desktop)=

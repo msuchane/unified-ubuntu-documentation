@@ -4,6 +4,9 @@ myst:
     description: Create Ubuntu virtual machines quickly using uvtool to synchronize and deploy cloud images locally with libvirt on Ubuntu 14.04+.
 ---
 
+```{tags} How-to guide
+```
+
 (cloud-image-vms-with-uvtool)=
 # Create cloud image VMs with UVtool
 

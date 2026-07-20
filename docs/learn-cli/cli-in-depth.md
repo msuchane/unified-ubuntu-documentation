@@ -4,6 +4,9 @@ myst:
     description: Tutorial on the Ubuntu terminal. Understand concepts like standard streams, piping, command chaining, and shell variables.
 ---
 
+```{tags} Tutorial
+```
+
 (cli-in-depth)=
 # The command line in depth
 

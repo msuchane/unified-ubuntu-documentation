@@ -2,7 +2,7 @@
 sequential_nav: both
 ---
 
-```{tags} Introduction
+```{tags} Introduction, Tutorial
 ```
 
 (try-ubuntu-desktop)=

@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (autoinstallation)=
 # Automatic Ubuntu installation
 

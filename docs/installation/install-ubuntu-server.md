@@ -4,6 +4,9 @@ myst:
     description: Learn how to install Ubuntu Server with this step-by-step guide covering system requirements, ISO download, bootable USB creation, and installation process.
 ---
 
+```{tags} Tutorial
+```
+
 (basic-installation)=
 # Basic installation
 

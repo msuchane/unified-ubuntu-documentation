@@ -1,4 +1,4 @@
-```{tags} Security
+```{tags} Security, How-to guide
 ```
 
 (recover-data-from-hardware-backed-disk-encryption)=

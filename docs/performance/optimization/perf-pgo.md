@@ -4,6 +4,9 @@ myst:
     description: "Understand Profile-Guided Optimization (PGO) for improving application performance on Ubuntu Server through profiling-based compilation."
 ---
 
+```{tags} Explanation
+```
+
 (perf-pgo)=
 
 # Profile-Guided Optimization

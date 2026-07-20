@@ -4,6 +4,9 @@ myst:
     description: Install and configure Postfix mail server on Ubuntu for SMTP email delivery, with dovecot SASL, without Virtual Domains or advanced configurations.
 ---
 
+```{tags} How-to guide
+```
+
 (install-postfix)=
 # Install and configure Postfix
 

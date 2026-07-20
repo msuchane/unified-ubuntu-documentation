@@ -1,4 +1,4 @@
-```{tags} Installation, Windows, macOS
+```{tags} Installation, Windows, macOS, How-to guide
 ```
 
 (create-a-bootable-usb-stick)=

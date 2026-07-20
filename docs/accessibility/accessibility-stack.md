@@ -1,4 +1,4 @@
-```{tags} Accessibility
+```{tags} Accessibility, Explanation
 ```
 
 (accessibility-stack)=

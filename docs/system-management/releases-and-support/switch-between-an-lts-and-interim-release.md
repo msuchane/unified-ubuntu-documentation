@@ -1,4 +1,4 @@
-```{tags} Updates, Support
+```{tags} Updates, Support, How-to guide
 ```
 
 (switch-between-an-lts-and-interim-release)=

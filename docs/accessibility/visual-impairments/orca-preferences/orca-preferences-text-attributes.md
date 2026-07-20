@@ -1,5 +1,8 @@
 
 
+```{tags} Reference
+```
+
 # Text attributes preferences
 
 Text attributes include font, style, alignment, and other formatting features.

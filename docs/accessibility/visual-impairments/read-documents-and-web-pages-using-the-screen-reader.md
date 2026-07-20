@@ -1,4 +1,4 @@
-```{tags} Accessibility
+```{tags} Accessibility, How-to guide
 ```
 
 (read-documents-and-web-pages-using-the-screen-reader)=

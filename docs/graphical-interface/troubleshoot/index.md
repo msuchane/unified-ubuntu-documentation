@@ -1,3 +1,6 @@
+```{tags} How-to guide
+```
+
 # Common problems
 
 These documents provide practical guides on troubleshooting and fixing common problems with Ubuntu Desktop.

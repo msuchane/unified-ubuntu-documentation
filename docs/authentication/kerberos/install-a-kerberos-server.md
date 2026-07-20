@@ -4,6 +4,9 @@ myst:
     description: Install and configure an MIT Kerberos server on Ubuntu with primary and secondary KDC setup, including DNS and NTP prerequisites.
 ---
 
+```{tags} How-to guide
+```
+
 (install-a-kerberos-server)=
 # How to install a Kerberos server
 

@@ -4,6 +4,9 @@ myst:
     description: Install Ubuntu Server on IBM Power (ppc64el) using a virtual CD-ROM with Petitboot and ipmitool for remote installation.
 ---
 
+```{tags} How-to guide
+```
+
 (how-to-start-a-live-server-installation-on-ibm-power-ppc64el-with-a-virtual-cd-rom-and-petitboot)=
 # How to start a live server installation on IBM Power (ppc64el) with a virtual CD-ROM and Petitboot
 

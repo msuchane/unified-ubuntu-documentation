@@ -4,6 +4,9 @@ myst:
     description: Set up Munin performance monitoring system with master and node configuration for network-wide server resource monitoring on Ubuntu.
 ---
 
+```{tags} How-to guide
+```
+
 (install-munin)=
 # How to install and configure Munin
 

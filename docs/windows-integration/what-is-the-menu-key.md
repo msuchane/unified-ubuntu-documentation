@@ -1,4 +1,4 @@
-```{tags} Keyboard
+```{tags} Keyboard, Explanation
 ```
 
 (what-is-the-menu-key)=

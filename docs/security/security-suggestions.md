@@ -4,6 +4,9 @@ myst:
     description: "Understand security best practices and recommendations for hardening and protecting Ubuntu Server deployments."
 ---
 
+```{tags} Explanation
+```
+
 (security-suggestions)=
 # Security suggestions
 

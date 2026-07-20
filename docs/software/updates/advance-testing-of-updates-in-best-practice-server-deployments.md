@@ -4,6 +4,9 @@ myst:
     description: "Understand strategies for testing Ubuntu Server proposed updates in advance using best practices for enterprise deployment environments."
 ---
 
+```{tags} Explanation
+```
+
 (advance-testing-of-updates-in-best-practice-server-deployments)=
 # Advance testing of updates in best-practice server deployments
 

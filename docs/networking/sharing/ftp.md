@@ -4,6 +4,9 @@ myst:
     description: Install and configure vsftpd FTP server on Ubuntu with anonymous and authenticated access modes for file transfer over TCP protocol.
 ---
 
+```{tags} How-to guide
+```
+
 (ftp)=
 # Set up an FTP server
 

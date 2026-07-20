@@ -4,6 +4,9 @@ myst:
     description: "Understand Java cryptography configuration on Ubuntu Server, including security policies and algorithm selection."
 ---
 
+```{tags} Explanation
+```
+
 (java-cryptography-configuration)=
 # Java cryptography configuration
 

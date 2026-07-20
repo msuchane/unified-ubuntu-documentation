@@ -4,6 +4,9 @@ myst:
     description: "Learn about modifying package files on Ubuntu Server, including handling configuration files and package management best practices."
 ---
 
+```{tags} Explanation
+```
+
 (changing-package-files)=
 # Changing package files
 

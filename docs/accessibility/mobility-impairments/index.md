@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (mobility-impairments)=
 # Mobility impairments
 

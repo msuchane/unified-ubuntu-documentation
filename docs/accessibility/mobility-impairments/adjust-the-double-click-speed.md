@@ -1,4 +1,4 @@
-```{tags} Accessibility, Customization
+```{tags} Accessibility, Customization, How-to guide
 ```
 
 (adjust-the-double-click-speed)=

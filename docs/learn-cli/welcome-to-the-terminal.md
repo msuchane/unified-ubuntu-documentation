@@ -4,6 +4,9 @@ myst:
     description: Introductory tutorial on the Ubuntu terminal. Understand what the terminal is, then use it to navigate the file system, work with files, and manage permissions.
 ---
 
+```{tags} Tutorial
+```
+
 (welcome-to-the-terminal)=
 # Welcome to the terminal
 

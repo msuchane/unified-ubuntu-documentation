@@ -4,6 +4,9 @@ myst:
     description: Understanding debugging tools on Ubuntu Server including debuginfod and debug symbols, as well as the use of eBPF for system analysis.
 ---
 
+```{tags} Index
+```
+
 (how-to-debugging)=
 # Debugging
 

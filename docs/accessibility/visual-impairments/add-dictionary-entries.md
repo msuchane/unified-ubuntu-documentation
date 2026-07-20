@@ -1,4 +1,4 @@
-```{tags} Accessibility
+```{tags} Accessibility, How-to guide
 ```
 
 (add-dictionary-entries)=

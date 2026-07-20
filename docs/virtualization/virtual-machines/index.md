@@ -4,6 +4,9 @@ myst:
     description: Create and manage virtual machines on Ubuntu Server using Multipass, UVtool, QEMU, libvirt, and virt-manager with these comprehensive guides.
 ---
 
+```{tags} Index
+```
+
 # Virtual machines
 
 ## Overview

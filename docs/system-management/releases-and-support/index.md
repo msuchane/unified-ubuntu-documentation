@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (releases-and-support)=
 # Ubuntu releases and support
 

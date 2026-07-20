@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (authentication)=
 # User authentication on Ubuntu
 

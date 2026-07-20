@@ -1,3 +1,6 @@
+```{tags} Reference
+```
+
 # Chat preferences
 
 The following options allow you to customize how Orca behaves when providing access to instant messaging and internet relay chat clients.

@@ -1,4 +1,7 @@
 
+```{tags} Reference
+```
+
 # Braille preferences
 
 ## Enable braille support

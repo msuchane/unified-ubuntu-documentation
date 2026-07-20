@@ -4,6 +4,9 @@ myst:
     description: "Learn how Dynamic Host Configuration Protocol (DHCP) automatically assigns network settings to host computers, including IP addresses and gateway configurations."
 ---
 
+```{tags} Explanation
+```
+
 (about-dhcp)=
 # About DHCP
 

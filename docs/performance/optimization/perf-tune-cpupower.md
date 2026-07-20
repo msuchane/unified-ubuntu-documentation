@@ -4,6 +4,9 @@ myst:
     description: "Learn about CPU governors and the cpupower tool for managing CPU frequency scaling and power management on Ubuntu Server."
 ---
 
+```{tags} Explanation
+```
+
 (perf-tune-cpupower)=
 # The cpupower tool
 

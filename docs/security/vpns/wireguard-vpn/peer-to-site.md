@@ -4,6 +4,9 @@ myst:
     description: Introduction to WireGuard peer-to-site VPN configuration for connecting single systems to remote networks securely over the internet.
 ---
 
+```{tags} How-to guide
+```
+
 (wireguard-vpn-peer-to-site)=
 # WireGuard VPN peer-to-site
 

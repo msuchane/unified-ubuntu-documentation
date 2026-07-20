@@ -4,6 +4,9 @@ myst:
     description: Learn how to install and configure AppArmor profiles to restrict application capabilities using mandatory access control on Ubuntu Server.
 ---
 
+```{tags} How-to guide
+```
+
 (apparmor)=
 # AppArmor
 

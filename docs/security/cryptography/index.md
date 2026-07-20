@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (cryptography)=
 # Cryptography
 

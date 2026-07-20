@@ -4,6 +4,9 @@ myst:
     description: Step-by-step guide to attaching Ubuntu Pro subscription for enterprise lifecycle support, livepatch, FIPS packages, and security compliance.
 ---
 
+```{tags} Tutorial
+```
+
 (attach-your-ubuntu-pro-subscription)=
 # Attach your Ubuntu Pro subscription
 

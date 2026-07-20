@@ -4,6 +4,9 @@ myst:
     description: Introduction to eBPF (Extended Berkeley Packet Filter) for safe and efficient kernel-level analysis on Ubuntu Server systems.
 ---
 
+```{tags} How-to guide
+```
+
 (introduction-to-ebpf)=
 # Introduction to eBPF
 

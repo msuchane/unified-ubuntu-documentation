@@ -1,4 +1,7 @@
 
+```{tags} Reference
+```
+
 # Key echo preferences
 
 ## Enable key echo

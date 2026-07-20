@@ -4,6 +4,9 @@ myst:
     description: Install NVIDIA drivers on Ubuntu Server using ubuntu-drivers tool for UDA desktop drivers or ERD server drivers with Fabric Manager.
 ---
 
+```{tags} How-to guide
+```
+
 (nvidia-drivers-installation)=
 # NVIDIA drivers installation
 

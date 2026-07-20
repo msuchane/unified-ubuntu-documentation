@@ -1,4 +1,4 @@
-```{tags} Accessibility
+```{tags} Accessibility, How-to guide
 ```
 
 (click-and-move-the-mouse-pointer-using-the-keypad)=

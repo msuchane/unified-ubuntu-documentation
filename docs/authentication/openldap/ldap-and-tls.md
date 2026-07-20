@@ -4,6 +4,9 @@ myst:
     description: Secure OpenLDAP connections with Transport Layer Security (TLS).
 ---
 
+```{tags} How-to guide
+```
+
 (ldap-and-tls)=
 # LDAP and Transport Layer Security (TLS)
 

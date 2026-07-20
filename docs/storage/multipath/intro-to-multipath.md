@@ -4,6 +4,9 @@ myst:
     description: Introduction to Device Mapper Multipathing for managing multiple I/O paths between servers and storage arrays on Ubuntu Server.
 ---
 
+```{tags} Explanation
+```
+
 (introduction-to-multipath)=
 # Introduction to device mapper multipathing ("multipath")
 

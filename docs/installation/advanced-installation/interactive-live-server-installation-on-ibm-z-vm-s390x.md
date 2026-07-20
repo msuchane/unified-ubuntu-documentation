@@ -4,6 +4,9 @@ myst:
     description: Interactive Ubuntu Server installation on IBM z/VM (s390x) using the live server installer with manual configuration steps.
 ---
 
+```{tags} How-to guide
+```
+
 (interactive-live-server-installation-on-ibm-z-vm-s390x)=
 # Interactive live server installation on IBM z/VM (s390x)
 

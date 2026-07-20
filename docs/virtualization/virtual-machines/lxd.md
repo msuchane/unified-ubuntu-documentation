@@ -4,6 +4,9 @@ myst:
     description: Install and manage LXD system containers and virtual machines with command-line administration for development and production workloads.
 ---
 
+```{tags} How-to guide
+```
+
 (lxd)=
 # LXD containers and virtual machines
 

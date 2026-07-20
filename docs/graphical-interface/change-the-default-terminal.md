@@ -1,4 +1,4 @@
-```{tags} Customization
+```{tags} Customization, How-to guide
 ```
 
 (change-the-default-terminal)=

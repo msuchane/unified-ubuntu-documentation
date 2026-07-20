@@ -4,6 +4,9 @@ myst:
     description: "Reference documentation for sudo-rs outlining differences to the former sudo.ws, to guide users of Ubuntu Server on the new implementation."
 ---
 
+```{tags} Reference
+```
+
 (sudo-rs)=
 # sudo-rs
 

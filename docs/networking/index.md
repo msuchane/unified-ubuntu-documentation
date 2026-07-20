@@ -4,6 +4,9 @@ myst:
     description: Ubuntu Server networking guides covering Netplan configuration, DNS/DNSSEC, FTP, DHCP, time synchronization, and network troubleshooting.
 ---
 
+```{tags} Index
+```
+
 (networking)=
 # Networking
 

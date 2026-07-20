@@ -4,6 +4,9 @@ myst:
     description: Customize nginx web server configuration using server blocks to serve single or multiple websites on Ubuntu Server.
 ---
 
+```{tags} How-to guide
+```
+
 (configure-nginx)=
 # How to configure nginx
 

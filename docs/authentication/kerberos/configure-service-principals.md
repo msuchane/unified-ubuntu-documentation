@@ -4,6 +4,9 @@ myst:
     description: Step-by-step guide to creating and configuring Kerberos service principals and keytabs for services running on your network.
 ---
 
+```{tags} How-to guide
+```
+
 (configure-service-principals)=
 # How to configure Kerberos service principals
 

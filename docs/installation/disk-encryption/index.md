@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (disk-encryption)=
 # Disk encryption
 

@@ -4,6 +4,9 @@ myst:
     description: Introduction to Kerberos network authentication protocol including KDC, principals, realms, and ticket-based authentication concepts.
 ---
 
+```{tags} Explanation
+```
+
 (introduction-to-kerberos)=
 # Introduction to Kerberos
 

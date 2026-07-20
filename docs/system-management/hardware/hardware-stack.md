@@ -1,3 +1,6 @@
+```{tags} Explanation
+```
+
 (hardware-stack)=
 # Ubuntu Desktop hardware stack
 

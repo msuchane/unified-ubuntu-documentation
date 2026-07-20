@@ -1,4 +1,4 @@
-```{tags} Installation, Security, Windows
+```{tags} Installation, Security, Windows, How-to guide
 ```
 
 (turn-off-bitlocker-in-windows)=

@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (network-tools)=
 # Network tools
 

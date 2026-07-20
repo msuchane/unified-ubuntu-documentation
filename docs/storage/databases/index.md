@@ -4,6 +4,9 @@ myst:
     description: Introduction to database systems on Ubuntu Server comparing MySQL and PostgreSQL features, use cases, and configuration options.
 ---
 
+```{tags} Index
+```
+
 (introduction-to-databases)=
 # Introduction to databases
 

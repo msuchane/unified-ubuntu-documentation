@@ -4,6 +4,9 @@ myst:
     description: Configure OpenSSH U2F/FIDO hardware authentication devices for enhanced two-factor security using ecdsa-sk or ed25519-sk keys.
 ---
 
+```{tags} How-to guide
+```
+
 (two-factor-authentication-with-u2f-or-fido)=
 # Two factor authentication with U2F/FIDO
 

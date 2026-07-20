@@ -1,4 +1,4 @@
-```{tags} Accessibility
+```{tags} Accessibility, Reference
 ```
 
 (at-spi-dbus-xml-interfaces)=

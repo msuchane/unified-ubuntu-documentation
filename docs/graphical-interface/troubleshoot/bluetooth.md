@@ -1,3 +1,6 @@
+```{tags} How-to guide
+```
+
 (troubleshoot-bluetooth)=
 # Bluetooth 
 

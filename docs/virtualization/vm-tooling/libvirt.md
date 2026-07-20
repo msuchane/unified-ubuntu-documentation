@@ -4,6 +4,9 @@ myst:
     description: Usage of libvirt to control Qemu/KVM guests; including more advanced tasks like migration, setting up huge pages and more.
 ---
 
+```{tags} How-to guide
+```
+
 (libvirt)=
 # Libvirt
 

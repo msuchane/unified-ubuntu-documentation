@@ -4,6 +4,9 @@ myst:
     description: "Learn how to contribute to Ubuntu Server documentation, including guidelines for writing, submitting, and reviewing content."
 ---
 
+```{tags} Index
+```
+
 (contribute)=
 # Contribute to this documentation
 

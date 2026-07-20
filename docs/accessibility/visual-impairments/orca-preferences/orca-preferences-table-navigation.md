@@ -1,3 +1,6 @@
+```{tags} Reference
+```
+
 # Table navigation preferences
 
 The following options allow you to customize how Orca behaves when navigating within a table in applications that support Structural Navigation, see {ref}`orca-navigate-the-document-structure`.

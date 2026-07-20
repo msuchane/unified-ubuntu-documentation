@@ -4,6 +4,9 @@ myst:
     description: "Learn about network configuration options on Ubuntu Server, including Netplan, interfaces, and network management approaches."
 ---
 
+```{tags} Explanation
+```
+
 (configuring-networks)=
 # Configuring networks
 

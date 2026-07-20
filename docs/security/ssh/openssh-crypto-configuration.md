@@ -4,6 +4,9 @@ myst:
     description: "Understand OpenSSH cryptographic configuration options on Ubuntu Server, including cipher selection and security hardening."
 ---
 
+```{tags} Explanation
+```
+
 (openssh-crypto-configuration)=
 # OpenSSH crypto configuration
 

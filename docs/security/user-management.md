@@ -4,6 +4,9 @@ myst:
     description: Manage Ubuntu Server users securely using sudo and sudo-rs for privilege escalation without requiring the root account password.
 ---
 
+```{tags} How-to guide
+```
+
 (user-management)=
 # User management
 

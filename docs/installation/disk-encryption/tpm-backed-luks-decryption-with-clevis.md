@@ -4,6 +4,9 @@ myst:
     description: Learn how to integrate Clevis with Dracut for automated TPM-backed LUKS decryption on Ubuntu Server.
 ---
 
+```{tags} How-to guide
+```
+
 (tpm-backed-luks-decryption-with-clevis)=
 # TPM-based LUKS decryption with Clevis
 

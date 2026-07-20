@@ -4,6 +4,9 @@ myst:
     description: Install and configure OpenSSH server on Ubuntu for secure remote access, encrypted file transfers, and authentication methods.
 ---
 
+```{tags} How-to guide
+```
+
 (openssh-server)=
 
 # OpenSSH server

@@ -1,4 +1,4 @@
-```{tags} Keyboard
+```{tags} Keyboard, Reference
 ```
 
 (keyboard-navigation-shortcuts)=

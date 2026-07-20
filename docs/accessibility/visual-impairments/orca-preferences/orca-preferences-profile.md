@@ -1,4 +1,7 @@
 
+```{tags} Reference
+```
+
 # Profiles 
 
 The **Profiles** section lets you manage multiple Orca configurations.

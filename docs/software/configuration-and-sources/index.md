@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (configuration-and-sources)=
 # Configuring your software
 

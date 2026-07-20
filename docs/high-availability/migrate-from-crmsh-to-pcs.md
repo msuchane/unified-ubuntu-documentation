@@ -4,6 +4,9 @@ myst:
     description: "Reference guide for migrating Pacemaker cluster management from crmsh to pcs on Ubuntu Server."
 ---
 
+```{tags} Reference
+```
+
 (migrate-from-crmsh-to-pcs)=
 # Migrate from crmsh to pcs
 

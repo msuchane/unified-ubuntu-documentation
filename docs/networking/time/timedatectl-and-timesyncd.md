@@ -4,6 +4,9 @@ myst:
     description: Configure timedatectl and timesyncd for time synchronization on Ubuntu as an alternative to chrony for network time protocol services.
 ---
 
+```{tags} How-to guide
+```
+
 (timedatectl-and-timesyncd)=
 # Synchronize time using timedatectl and timesyncd
 

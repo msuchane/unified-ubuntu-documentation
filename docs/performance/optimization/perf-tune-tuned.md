@@ -4,6 +4,9 @@ myst:
     description: "Learn about TuneD for automatic system tuning and performance optimization using profiles on Ubuntu Server."
 ---
 
+```{tags} Explanation
+```
+
 (perf-tune-tuned)=
 # TuneD
 

@@ -4,6 +4,9 @@ myst:
     description: Install and configure Nagios Core 3 for availability monitoring of essential servers and services across multiple Ubuntu systems.
 ---
 
+```{tags} How-to guide
+```
+
 (install-nagios)=
 # How to install and configure Nagios Core 3
 

@@ -4,6 +4,9 @@ myst:
     description: Understanding cloud computing and cloud-init provisioning for Ubuntu Server deployment across cloud providers and infrastructures.
 ---
 
+```{tags} Index
+```
+
 (clouds)=
 # Ubuntu on Cloud infrastructure
 

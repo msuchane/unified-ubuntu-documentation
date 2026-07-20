@@ -4,6 +4,9 @@ myst:
     description: "Understand debug symbol packages on Ubuntu Server for debugging applications with detailed symbol information."
 ---
 
+```{tags} How-to guide
+```
+
 (debug-symbol-packages)=
 # Debug symbol packages
 

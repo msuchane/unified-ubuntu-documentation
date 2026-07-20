@@ -1,3 +1,6 @@
+```{tags} Explanation
+```
+
 (about-ubuntu-desktop)=
 # About Ubuntu Desktop
 

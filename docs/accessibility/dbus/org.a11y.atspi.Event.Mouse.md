@@ -1,3 +1,6 @@
+```{tags} Reference
+```
+
 # org.a11y.atspi.Event.Mouse
 
 ## Description

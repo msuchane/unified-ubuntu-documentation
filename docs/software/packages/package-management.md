@@ -4,6 +4,9 @@ myst:
     description: Install and manage Debian packages on Ubuntu Server using APT and Aptitude command-line tools for installing, upgrading, and removing software.
 ---
 
+```{tags} How-to guide
+```
+
 (package-management)=
 # Install and manage packages
 

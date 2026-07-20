@@ -4,6 +4,9 @@ myst:
     description: Monitor Ubuntu Server with Canonical Observability Stack, LMA stack, Logwatch, Munin, and Nagios installation guides.
 ---
 
+```{tags} Index
+```
+
 (how-to-observability)=
 # Observability
 

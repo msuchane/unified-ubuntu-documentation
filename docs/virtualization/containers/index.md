@@ -4,6 +4,9 @@ myst:
     description: Deploy and manage containers on Ubuntu Server using LXD, Docker, and ROCK images with these practical guides.
 ---
 
+```{tags} Index
+```
+
 (how-to-containers)=
 # Containers
 

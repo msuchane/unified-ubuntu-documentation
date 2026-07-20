@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (hearing-impairments)=
 # Hearing impairments
 

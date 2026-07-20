@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (software-updates)=
 # Software updates in Ubuntu
 

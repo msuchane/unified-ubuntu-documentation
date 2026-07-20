@@ -4,6 +4,9 @@ myst:
     description: Configure Ubuntu Server as an iSCSI initiator to connect to remote iSCSI targets for block-level network storage access.
 ---
 
+```{tags} How-to guide
+```
+
 (iscsi-initiator-or-client)=
 # iSCSI initiator (or client)
 

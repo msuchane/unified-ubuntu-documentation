@@ -4,6 +4,9 @@ myst:
     description: "Learn about GnuTLS cryptographic library configuration and usage on Ubuntu Server for secure communications."
 ---
 
+```{tags} Explanation
+```
+
 (gnutls)=
 # GnuTLS
 

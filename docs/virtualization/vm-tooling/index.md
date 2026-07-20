@@ -4,6 +4,9 @@ myst:
     description: Understanding virtualization and containers on Ubuntu Server including VMs, OpenStack, Docker, LXD, and ROCK images.
 ---
 
+```{tags} Index
+```
+
 # Virtual machine tooling
 
 ## Confidential computing

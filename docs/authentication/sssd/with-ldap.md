@@ -4,6 +4,9 @@ myst:
     description: Configure SSSD to use OpenLDAP for authentication, authorisation, and user/group information with SSL-enabled directory support.
 ---
 
+```{tags} How-to guide
+```
+
 (sssd-with-ldap)=
 # How to set up SSSD with LDAP
 

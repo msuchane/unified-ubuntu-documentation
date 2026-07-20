@@ -4,6 +4,9 @@ myst:
     description: Network boot the Ubuntu Server installer on amd64 systems using PXE in UEFI or legacy BIOS mode with DHCP, TFTP, and PXELINUX configuration.
 ---
 
+```{tags} How-to guide
+```
+
 (how-to-netboot-the-server-installer-on-amd64)=
 # How to netboot the server installer on amd64
 

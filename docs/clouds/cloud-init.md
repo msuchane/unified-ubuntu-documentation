@@ -4,6 +4,9 @@ myst:
     description: Introduction to cloud-init - the industry standard tool for provisioning and configuring cloud instances across multiple providers.
 ---
 
+```{tags} Explanation
+```
+
 (introduction-to-cloud-init)=
 
 # Introduction to cloud-init

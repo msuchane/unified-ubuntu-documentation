@@ -4,6 +4,9 @@ myst:
     description: Route all internet traffic through WireGuard VPN for privacy on untrusted networks like airports, coffee shops, and public WiFi.
 ---
 
+```{tags} How-to guide
+```
+
 (using-the-vpn-as-the-default-gateway)=
 # Using the VPN as the default gateway
 

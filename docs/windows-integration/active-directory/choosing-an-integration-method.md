@@ -4,6 +4,9 @@ myst:
     description: "Understand different methods for integrating Ubuntu Server with Active Directory, including SSSD, Samba, and Winbind options."
 ---
 
+```{tags} Explanation
+```
+
 (choosing-an-integration-method)=
 # Choosing an integration method
 

@@ -4,6 +4,9 @@ myst:
     description: Install and manage Apache2 modules to extend web server functionality with dynamic loading, WSGI, and custom features on Ubuntu.
 ---
 
+```{tags} How-to guide
+```
+
 (use-apache2-modules)=
 # How to use Apache2 modules
 

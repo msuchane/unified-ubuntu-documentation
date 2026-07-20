@@ -4,6 +4,9 @@ myst:
     description: "Learn about digital certificates, certificate authorities, and how they secure communication in Ubuntu Server environments."
 ---
 
+```{tags} Explanation
+```
+
 (about-certificates)=
 # About certificates
 

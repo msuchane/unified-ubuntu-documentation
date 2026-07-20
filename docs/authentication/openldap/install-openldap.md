@@ -4,6 +4,9 @@ myst:
     description: Install and configure an OpenLDAP server with slapd on Ubuntu.
 ---
 
+```{tags} How-to guide
+```
+
 (install-openldap)=
 # Install and configure LDAP
 

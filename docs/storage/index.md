@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (storage)=
 # Storage on Ubuntu
 

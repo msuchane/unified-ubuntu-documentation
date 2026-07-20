@@ -2,7 +2,7 @@
 relatedlinks: "[BitLocker &#32; overview &#32; by &#32; Microsoft](https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker/)"
 ---
 
-```{tags} Installation, Security, Windows
+```{tags} Installation, Security, Windows, Reference
 ```
 
 (bitlocker-during-ubuntu-installation)=

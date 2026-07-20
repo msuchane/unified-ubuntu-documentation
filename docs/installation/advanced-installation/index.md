@@ -4,6 +4,9 @@ myst:
     description: Ubuntu Server installation guides for automatic installs, netboot, and architecture-specific setups including amd64, arm64, ppc64el, and s390x.
 ---
 
+```{tags} Index
+```
+
 (advanced-installation)=
 # Advanced installation
 

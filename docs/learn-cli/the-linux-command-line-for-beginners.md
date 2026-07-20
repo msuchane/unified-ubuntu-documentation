@@ -2,6 +2,9 @@
 sequential_nav: both
 ---
 
+```{tags} Tutorial
+```
+
 (the-linux-command-line-for-beginners)=
 # The Linux command line for beginners
 

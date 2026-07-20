@@ -4,6 +4,9 @@ myst:
     description: Install PHP scripting language with Apache2 and MySQL on Ubuntu Server for web development and dynamic HTML applications.
 ---
 
+```{tags} How-to guide
+```
+
 (install-php)=
 # How to install and configure PHP
 
