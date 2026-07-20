@@ -4,7 +4,7 @@ myst:
     description: Configure Samba as a print server to share CUPS printers with Windows clients over the network with or without authentication.
 ---
 
-```{tags} How-to guide
+```{tags} How-to guide, Windows
 ```
 
 (samba-print-server)=

@@ -4,7 +4,7 @@ myst:
     description: Join Samba server to Active Directory domain using realmd to serve files and printers with SMB authentication for AD users.
 ---
 
-```{tags} How-to guide
+```{tags} How-to guide, Windows
 ```
 
 (member-server-in-an-ad-domain)=

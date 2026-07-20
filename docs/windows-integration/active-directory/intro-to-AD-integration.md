@@ -4,7 +4,7 @@ myst:
     description: Introduction to integrating Ubuntu Server with Microsoft Active Directory domains including authentication methods and identity mapping options.
 ---
 
-```{tags} Explanation
+```{tags} Explanation, Windows
 ```
 
 (introduction-to-active-directory-integration)=

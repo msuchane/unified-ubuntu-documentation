@@ -4,7 +4,7 @@ myst:
     description: Introduction to Samba for file and print sharing between Ubuntu and Windows systems including SMB protocol and Active Directory integration.
 ---
 
-```{tags} Explanation
+```{tags} Explanation, Windows
 ```
 
 (introduction-to-samba)=

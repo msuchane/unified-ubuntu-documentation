@@ -4,7 +4,7 @@ myst:
     description: Bootstrap and provision a Samba Active Directory Domain Controller for authentication services without file or print sharing.
 ---
 
-```{tags} How-to guide
+```{tags} How-to guide, Windows
 ```
 
 (provision-samba-ad-controller)=

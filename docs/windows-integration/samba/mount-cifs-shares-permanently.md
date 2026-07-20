@@ -4,7 +4,7 @@ myst:
     description: Configure automatic mounting of CIFS shares at boot from Windows or Samba servers for persistent network file access on Ubuntu.
 ---
 
-```{tags} How-to guide
+```{tags} How-to guide, Windows
 ```
 
 (mount-cifs-shares-permanently)=

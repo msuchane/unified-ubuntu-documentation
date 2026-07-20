@@ -4,7 +4,7 @@ myst:
     description: Set up Samba as a file server to share files between Ubuntu and Windows clients with or without authentication requirements.
 ---
 
-```{tags} How-to guide
+```{tags} How-to guide, Windows
 ```
 
 (samba-file-server)=

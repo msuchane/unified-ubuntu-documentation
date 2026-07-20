@@ -4,7 +4,7 @@ myst:
     description: Legacy guide for integrating Samba NT4 mode with OpenLDAP backend for centralized authentication and account management.
 ---
 
-```{tags} How-to guide
+```{tags} How-to guide, Windows
 ```
 
 (openldap-backend-legacy)=

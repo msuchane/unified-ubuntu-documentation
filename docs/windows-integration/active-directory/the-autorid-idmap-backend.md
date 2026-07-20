@@ -4,7 +4,7 @@ myst:
     description: "Learn about the AutoRID IDMap backend for simplified UID/GID allocation in Active Directory environments, particularly multidomain deployments."
 ---
 
-```{tags} Explanation
+```{tags} Explanation, Windows
 ```
 
 (the-autorid-idmap-backend)=

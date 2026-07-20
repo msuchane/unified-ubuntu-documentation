@@ -4,7 +4,7 @@ myst:
     description: Create and configure AppArmor security profiles for Samba daemons smbd and nmbd to enforce mandatory access controls on Ubuntu.
 ---
 
-```{tags} How-to guide
+```{tags} How-to guide, Windows
 ```
 
 (samba-apparmor-profile)=

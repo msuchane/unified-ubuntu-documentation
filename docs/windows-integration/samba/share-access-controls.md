@@ -4,7 +4,7 @@ myst:
     description: Configure Samba share access controls by managing user authentication, permissions, and security options for shared directories.
 ---
 
-```{tags} How-to guide
+```{tags} How-to guide, Windows
 ```
 
 (share-access-controls)=

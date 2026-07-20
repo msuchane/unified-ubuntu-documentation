@@ -4,7 +4,7 @@ myst:
     description: Prepare to join an Active Directory domain with winbind by completing tasks in common to all identity mapping backends prior to selecting one.
 ---
 
-```{tags} How-to guide
+```{tags} How-to guide, Windows
 ```
 
 (join-a-domain-with-winbind-preparation)=

@@ -4,7 +4,7 @@ myst:
     description: Complete configuration to join a single Active Directory domain using winbind with RID backend for deterministic UID/GID mapping.
 ---
 
-```{tags} How-to guide
+```{tags} How-to guide, Windows
 ```
 
 (join-a-simple-domain-with-the-rid-backend)=

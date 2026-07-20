@@ -1,4 +1,4 @@
-```{tags} Index
+```{tags} Index, Windows
 ```
 
 (windows-integration)=
