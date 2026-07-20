@@ -14,5 +14,6 @@ access-a-remote-desktop
 start-an-application-at-login
 keyboard-navigation-shortcuts
 Install NVIDIA drivers <install-nvidia-drivers>
+what-is-the-menu-key
 troubleshoot/index
 ```
