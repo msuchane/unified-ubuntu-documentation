@@ -17,4 +17,6 @@ system-requirements
 autoinstallation/index
 disk-encryption/index
 advanced-installation/index
+intel-rst-during-ubuntu-installation
+reconfigure-windows-to-use-ahci
 :::

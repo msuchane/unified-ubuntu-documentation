@@ -14,4 +14,6 @@ configure-hardware-backed-disk-encryption
 hardware-backed-disk-encryption-requirements
 recover-data-from-hardware-backed-disk-encryption
 tpm-backed-luks-decryption-with-clevis
+bitlocker-during-ubuntu-installation
+turn-off-bitlocker-in-windows
 :::
