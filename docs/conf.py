@@ -35,7 +35,7 @@ copyright = f"{datetime.date.today().year}"
 html_title = project + " documentation"
 
 # Documentation website URL
-ogp_site_url = "https://documentation.ubuntu.com/unified-ubuntu-documentation/latest/"
+ogp_site_url = "https://documentation.ubuntu.com/ubuntu-os/latest/"
 
 
 # Preview name of the documentation website
@@ -76,7 +76,7 @@ html_context = {
     #
     # NOTE: If set, links for viewing the documentation source files
     #       and creating GitHub issues are added at the bottom of each page.
-    "github_url": "https://github.com/msuchane/unified-ubuntu-documentation",
+    "github_url": "https://github.com/canonical/ubuntu-os-documentation",
     # Docs branch in the repo; used in links for viewing the source files
     "repo_default_branch": "main",
     # Docs location in the repo; used in links for viewing the source files
@@ -121,7 +121,7 @@ html_context = {
 # - https://git.launchpad.net/example
 #
 html_theme_options = {
-    "source_edit_link": "https://github.com/msuchane/unified-ubuntu-documentation",
+    "source_edit_link": "https://github.com/canonical/ubuntu-os-documentation",
 }
 
 # Project slug
