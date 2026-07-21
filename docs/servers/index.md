@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (servers)=
 # Servers on Ubuntu
 

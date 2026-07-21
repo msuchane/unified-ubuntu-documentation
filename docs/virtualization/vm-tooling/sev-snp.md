@@ -4,6 +4,9 @@ myst:
     description: Enable AMD SEV-SNP confidential computing on Ubuntu 25.04 to run encrypted VMs with memory and register protection from the host.
 ---
 
+```{tags} How-to guide
+```
+
 (sev-snp)=
 # Confidential Computing with AMD
 

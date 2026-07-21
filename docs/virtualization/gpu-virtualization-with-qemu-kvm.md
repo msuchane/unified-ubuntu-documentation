@@ -4,6 +4,9 @@ myst:
     description: Configure GPU virtualization with QEMU/KVM including graphics frontends, backends, 3D acceleration, and advanced passthrough options.
 ---
 
+```{tags} How-to guide
+```
+
 (gpu-virtualization-with-qemu-kvm)=
 # GPU virtualisation with QEMU/KVM
 

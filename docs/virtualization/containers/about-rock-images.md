@@ -4,6 +4,9 @@ myst:
     description: "Learn about rock images, Ubuntu's OCI-compliant container images designed for secure, minimal, and production-ready deployments."
 ---
 
+```{tags} Explanation
+```
+
 (about-rock-images)=
 # About rock images
 

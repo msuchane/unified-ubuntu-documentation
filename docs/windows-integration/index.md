@@ -1,3 +1,6 @@
+```{tags} Index, Windows
+```
+
 (windows-integration)=
 # Ubuntu integration with Windows
 

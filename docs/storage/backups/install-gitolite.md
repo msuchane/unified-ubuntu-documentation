@@ -4,6 +4,9 @@ myst:
     description: Set up Gitolite for hosting and managing git repositories for collaboration, using fine-grained access control and SSH key authentication.
 ---
 
+```{tags} How-to guide
+```
+
 (install-gitolite)=
 # How to set up Gitolite
 

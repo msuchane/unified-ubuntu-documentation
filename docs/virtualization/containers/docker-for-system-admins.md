@@ -4,6 +4,9 @@ myst:
     description: Configure Docker storage, networking, and logging with practical examples using Docker CLI for system administrators on Ubuntu.
 ---
 
+```{tags} How-to guide
+```
+
 (docker-for-system-admins)=
 # Docker for system admins
 

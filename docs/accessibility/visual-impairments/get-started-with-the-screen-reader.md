@@ -2,7 +2,7 @@
 sequential_nav: both
 ---
 
-```{tags} Accessibility
+```{tags} Accessibility, Tutorial
 ```
 
 (get-started-with-the-screen-reader)=

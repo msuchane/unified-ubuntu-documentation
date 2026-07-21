@@ -4,6 +4,9 @@ myst:
     description: "Minimum and suggested resource requirements for installing or deploying Ubuntu Server."
 ---
 
+```{tags} Reference
+```
+
 (system-requirements)=
 # System requirements
 

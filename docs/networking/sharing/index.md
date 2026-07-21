@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (network-sharing)=
 # Network sharing
 

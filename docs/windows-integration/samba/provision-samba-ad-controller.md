@@ -4,6 +4,9 @@ myst:
     description: Bootstrap and provision a Samba Active Directory Domain Controller for authentication services without file or print sharing.
 ---
 
+```{tags} How-to guide, Windows
+```
+
 (provision-samba-ad-controller)=
 # Provisioning a Samba Active Directory Domain Controller
 A Samba Active Directory Domain Controller (also known as just Samba AD/DC) is a server running Samba services that can provide authentication to domain users and computers, linux or Windows. It should be dedicated to authentication and authorization services, and not provide file or print services: that should be the role of member servers joined to the domain.

@@ -4,6 +4,9 @@ myst:
     description: "Understand multipath configuration options and settings for device mapper multipathing on Ubuntu Server."
 ---
 
+```{tags} Explanation
+```
+
 (configuring-multipath)=
 # Multipath configuration options and overview
 

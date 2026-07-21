@@ -4,6 +4,9 @@ myst:
     description: "Learn about Squid proxy servers for caching web content, access control, and improving network performance on Ubuntu Server."
 ---
 
+```{tags} Explanation
+```
+
 (about-squid-proxy-servers)=
 # About Squid proxy servers
 

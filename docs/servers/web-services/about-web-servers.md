@@ -4,6 +4,9 @@ myst:
     description: "Understand web server options for Ubuntu Server, including Apache, Nginx, and other HTTP server technologies."
 ---
 
+```{tags} Explanation
+```
+
 (about-web-servers)=
 # About web servers
 

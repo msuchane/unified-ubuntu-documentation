@@ -4,6 +4,9 @@ myst:
     description: Configure chrony as an NTP server on Ubuntu to serve Network Time Protocol information and continuously sync system clock for accuracy.
 ---
 
+```{tags} How-to guide
+```
+
 (serve-ntp-with-chrony)=
 # How to serve the Network Time Protocol with Chrony
 

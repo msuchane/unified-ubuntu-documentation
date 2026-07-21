@@ -4,6 +4,9 @@ myst:
     description: Create automated backups using shell scripts with tar to archive files; Optionally do so to NFS-mounted file systems, file rotation and tape.
 ---
 
+```{tags} How-to guide
+```
+
 (back-up-using-shell-scripts)=
 # How to back up using shell scripts
 

@@ -4,6 +4,9 @@ myst:
     description: "Reference documentation for terminal multiplexers including tmux, screen, and Byobu, with detailed tmux examples and usage patterns."
 ---
 
+```{tags} Reference
+```
+
 (terminal-multiplexers)=
 # Terminal multiplexers
 

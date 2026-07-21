@@ -4,6 +4,9 @@ myst:
     description: Connect two distinct networks over the internet using site-to-site WireGuard VPN tunnel for secure inter-site communications.
 ---
 
+```{tags} How-to guide
+```
+
 (wireguard-vpn-site-to-site)=
 # WireGuard VPN site-to-site
 

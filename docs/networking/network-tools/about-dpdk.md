@@ -4,6 +4,9 @@ myst:
     description: "Understand the Data Plane Development Kit (DPDK), a framework for fast packet processing in user space on Ubuntu Server."
 ---
 
+```{tags} Explanation
+```
+
 (about-dpdk)=
 # About DPDK
 

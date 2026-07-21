@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (explanation-web-services)=
 # Web services
 

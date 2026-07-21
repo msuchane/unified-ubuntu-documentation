@@ -4,6 +4,9 @@ myst:
     description: Troubleshoot WireGuard VPN issues by verifying keys, routes, IP forwarding, proxy ARP, and using watch wg command for diagnostics.
 ---
 
+```{tags} How-to guide
+```
+
 (troubleshooting-wireguard-vpn)=
 # Troubleshooting WireGuard VPN
 

@@ -4,6 +4,9 @@ myst:
     description: Introduction to configuring OpenLDAP passthrough authentication using SASL library and saslauthd daemon for external password storage.
 ---
 
+```{tags} How-to guide
+```
+
 (ldap-saslauthd-authentication-intro)=
 # How to configure OpenLDAP with passthrough authentication
 

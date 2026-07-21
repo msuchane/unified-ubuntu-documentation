@@ -4,6 +4,9 @@ myst:
     description: "Learn about Pacemaker fence agents for managing node fencing in high-availability clusters on Ubuntu Server."
 ---
 
+```{tags} Explanation
+```
+
 (pacemaker-fence-agents)=
 # Pacemaker fence agents
 

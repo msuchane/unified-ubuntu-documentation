@@ -4,6 +4,9 @@ myst:
     description: Install and configure PostgreSQL object-relational database system with peer and SCRAM-SHA-256 authentication on Ubuntu Server.
 ---
 
+```{tags} How-to guide
+```
+
 (install-postgresql)=
 # Install and configure PostgreSQL
 

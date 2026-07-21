@@ -4,6 +4,9 @@ myst:
     description: Back up and restore OpenLDAP configuration and data using slapcat and systemd timers.
 ---
 
+```{tags} How-to guide
+```
+
 (ldap-backup-and-restore)=
 # Backup and restore OpenLDAP
 

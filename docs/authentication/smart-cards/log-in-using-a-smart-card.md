@@ -1,4 +1,4 @@
-```{tags} Security
+```{tags} Security, How-to guide
 ```
 
 (log-in-using-a-smart-card)=

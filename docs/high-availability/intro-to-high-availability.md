@@ -4,6 +4,9 @@ myst:
     description: Introduction to High Availability concepts including redundancy, failover mechanisms, and distributed systems for minimal downtime.
 ---
 
+```{tags} Explanation
+```
+
 (introduction-to-high-availability)=
 # Introduction to High Availability
 

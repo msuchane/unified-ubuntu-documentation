@@ -1,4 +1,4 @@
-```{tags} Installation, Security
+```{tags} Installation, Security, Reference
 ```
 
 (hardware-backed-disk-encryption-requirements)=

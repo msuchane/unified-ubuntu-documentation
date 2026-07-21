@@ -4,6 +4,9 @@ myst:
     description: Configure primary and secondary Kerberos servers using OpenLDAP backend for integrated principal storage and management.
 ---
 
+```{tags} How-to guide
+```
+
 (kerberos-with-openldap-backend)=
 # How to set up Kerberos with OpenLDAP backend
 

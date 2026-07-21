@@ -1,4 +1,4 @@
-```{tags} Installation
+```{tags} Installation, Reference
 ```
 
 (advanced-disk-setup-features)=

@@ -4,6 +4,9 @@ myst:
     description: "Understand OpenStack cloud computing platform and its integration with Ubuntu Server for building private and public clouds."
 ---
 
+```{tags} Explanation
+```
+
 (about-openstack)=
 # About OpenStack
 

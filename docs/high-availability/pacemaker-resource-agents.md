@@ -4,6 +4,9 @@ myst:
     description: "Understand Pacemaker resource agents for managing cluster resources in high-availability environments on Ubuntu Server."
 ---
 
+```{tags} Explanation
+```
+
 (pacemaker-resource-agents)=
 # Pacemaker resource agents
 

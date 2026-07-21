@@ -4,6 +4,9 @@ myst:
     description: Install and configure OpenLDAP on Ubuntu Server with guides for access control, replication, TLS, user management, and backup.
 ---
 
+```{tags} Index
+```
+
 (how-to-openldap)=
 # OpenLDAP
 

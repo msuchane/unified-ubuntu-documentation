@@ -4,6 +4,9 @@ myst:
     description: Install and configure Logwatch to monitor server logs and automatically email reports about flagged items of interest on Ubuntu.
 ---
 
+```{tags} How-to guide
+```
+
 (install-logwatch)=
 # How to install and configure Logwatch
 

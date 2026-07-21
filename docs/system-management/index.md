@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (system-management)=
 # System management
 

@@ -1,4 +1,4 @@
-```{tags} Software, Customization
+```{tags} Software, Customization, How-to guide
 ```
 
 (install-languages)=

@@ -4,6 +4,9 @@ myst:
     description: Deploy Logging, Monitoring, and Alerting (LMA) stack with Telegraf, Prometheus, Grafana, and Alertmanager for infrastructure observability.
 ---
 
+```{tags} How-to guide
+```
+
 (set-up-your-lma-stack)=
 # Set up your LMA stack
 

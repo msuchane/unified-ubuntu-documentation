@@ -1,4 +1,4 @@
-```{tags} Installation, Security
+```{tags} Installation, Security, How-to guide
 ```
 
 (configure-hardware-backed-disk-encryption)=

@@ -1,3 +1,6 @@
+```{tags} How-to guide
+```
+
 (record-the-screen)=
 # Record the screen
 

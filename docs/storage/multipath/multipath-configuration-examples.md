@@ -4,6 +4,9 @@ myst:
     description: "Explore practical multipath configuration examples for different storage scenarios on Ubuntu Server."
 ---
 
+```{tags} Explanation
+```
+
 (multipath-configuration-examples)=
 # Multipath configuration examples
 

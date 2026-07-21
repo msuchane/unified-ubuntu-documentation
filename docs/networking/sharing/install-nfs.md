@@ -4,6 +4,9 @@ myst:
     description: Set up NFS on Ubuntu to share files over a network, including optional Kerberos authentication.
 ---
 
+```{tags} How-to guide
+```
+
 (install-nfs)=
 # Network File System (NFS)
 

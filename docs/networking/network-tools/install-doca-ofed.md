@@ -4,6 +4,9 @@ myst:
     description: Install NVIDIA's DOCA-OFED on Ubuntu 26.04 LTS and later releases.
 ---
 
+```{tags} How-to guide
+```
+
 (install-doca-ofed)=
 # Install and maintain DOCA-OFED
 

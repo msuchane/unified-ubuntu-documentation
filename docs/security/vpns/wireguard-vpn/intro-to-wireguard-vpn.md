@@ -4,6 +4,9 @@ myst:
     description: Introduction to WireGuard VPN including concepts, architecture, peer-to-site, site-to-site configurations, and security features.
 ---
 
+```{tags} Explanation
+```
+
 (introduction-to-wireguard-vpn)=
 # Introduction to WireGuard VPN
 

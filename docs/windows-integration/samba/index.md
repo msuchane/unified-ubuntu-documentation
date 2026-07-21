@@ -4,6 +4,9 @@ myst:
     description: Configure Samba on Ubuntu Server as an Active Directory Domain Controller, file server, or print server with share access controls.
 ---
 
+```{tags} Index, Windows
+```
+
 (how-to-samba)=
 # Samba
 

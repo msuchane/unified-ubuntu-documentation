@@ -2,7 +2,7 @@
 relatedlinks: "[Get &#32; started &#32; with &#32; snaps](https://snapcraft.io/docs/tutorials/get-started/), [Install &#32; and &#32; manage &#32; deb &#32; packages](https://ubuntu.com/server/docs/how-to/software/package-management/)"
 ---
 
-```{tags} Software
+```{tags} Software, Explanation
 ```
 
 (snap-and-deb-packages)=

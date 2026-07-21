@@ -4,6 +4,9 @@ myst:
     description: "Understand Security Identifiers (SIDs) in Windows Active Directory and their role in Ubuntu Server integration."
 ---
 
+```{tags} Explanation, Windows
+```
+
 (security-identifiers-sids)=
 # Security identifiers (SIDs)
 

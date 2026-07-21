@@ -4,6 +4,9 @@ myst:
     description: Track /etc configuration changes with etckeeper version control system integrated with APT for automatic commit on package changes.
 ---
 
+```{tags} How-to guide
+```
+
 (install-etckeeper)=
 # etckeeper
 

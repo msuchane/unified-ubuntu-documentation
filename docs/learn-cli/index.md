@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (learn-cli)=
 # Learn the Ubuntu command line
 

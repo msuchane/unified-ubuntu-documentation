@@ -1,4 +1,4 @@
-```{tags} Accessibility, Keyboard
+```{tags} Accessibility, Keyboard, How-to guide
 ```
 
 (navigate-the-interface-using-the-keyboard)=

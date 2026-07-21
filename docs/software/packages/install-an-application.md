@@ -1,4 +1,4 @@
-```{tags} Software
+```{tags} Software, How-to guide
 ```
 
 (install-an-application)=

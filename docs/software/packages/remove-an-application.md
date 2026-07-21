@@ -1,4 +1,4 @@
-```{tags} Software
+```{tags} Software, How-to guide
 ```
 
 (remove-an-application)=

@@ -6,7 +6,7 @@ relatedlinks: "[Extra &#32 software &#32 - &#32 Ubuntu &#32 Server &#32 document
 Previously linked: https://help.ubuntu.com/community/Repositories/Ubuntu, https://help.ubuntu.com/community/Repositories/CommandLine
 -->
 
-```{tags} Software
+```{tags} Software, How-to guide
 ```
 
 (add-a-software-repository)=

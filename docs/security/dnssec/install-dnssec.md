@@ -4,6 +4,9 @@ myst:
     description: Enable DNSSEC on your BIND9 DNS server to verify DNS data authenticity and integrity by serving signed zone records like DS and DNSKEY.
 ---
 
+```{tags} How-to guide
+```
+
 (install-dnssec)=
 # Installing DNS Security Extensions (DNSSEC)
 

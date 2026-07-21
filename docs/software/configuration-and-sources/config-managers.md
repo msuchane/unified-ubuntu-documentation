@@ -4,6 +4,9 @@ myst:
     description: "Understand configuration management tools like Ansible and Puppet, for automating Ubuntu Server configuration and deployment."
 ---
 
+```{tags} Explanation
+```
+
 (config-managers)=
 # Configuration managers
 

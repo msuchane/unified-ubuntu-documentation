@@ -4,6 +4,9 @@ myst:
     description: Install and configure Bacula cross-platform backup management system for network-wide backup, restore, and verification operations.
 ---
 
+```{tags} How-to guide
+```
+
 (install-bacula)=
 # How to install and configure Bacula
 

@@ -4,6 +4,9 @@ myst:
     description: Configure Apache2 virtual hosts and server directives to customize web server settings for single or multiple sites on Ubuntu.
 ---
 
+```{tags} How-to guide
+```
+
 (configure-apache2-settings)=
 # How to configure Apache2 settings
 

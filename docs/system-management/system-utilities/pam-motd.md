@@ -4,6 +4,9 @@ myst:
     description: "Reference documentation for pam_motd, the PAM infrastructure that generates and displays message-of-the-day on login at an Ubuntu Server."
 ---
 
+```{tags} Reference
+```
+
 (pam-motd)=
 # pam_motd
 

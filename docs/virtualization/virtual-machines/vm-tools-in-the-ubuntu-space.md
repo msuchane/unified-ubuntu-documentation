@@ -4,6 +4,9 @@ myst:
     description: "Explore virtualization tools available on Ubuntu Server, including QEMU, KVM, libvirt, and other VM management technologies."
 ---
 
+```{tags} Explanation
+```
+
 (vm-tools-in-the-ubuntu-space)=
 # VM tools in the Ubuntu space
 

@@ -4,6 +4,9 @@ myst:
     description: Install Apache2 HTTP web server on Ubuntu and learn about its configuration files and directives.
 ---
 
+```{tags} How-to guide
+```
+
 (install-apache2)=
 # How to install Apache2
 

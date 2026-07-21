@@ -4,6 +4,9 @@ myst:
     description: "Learn about using third-party repositories on Ubuntu Server, including security considerations and best practices."
 ---
 
+```{tags} Explanation
+```
+
 (third-party-repository-usage)=
 # Third party repository usage
 

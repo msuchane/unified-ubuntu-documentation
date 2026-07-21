@@ -4,6 +4,9 @@ myst:
     description: Automated Ubuntu Server installation on IBM z/VM (s390x) using autoinstall with DASD storage and non-VLAN network configuration.
 ---
 
+```{tags} How-to guide
+```
+
 (non-interactive-ibm-z-vm-autoinstall-s390x)=
 # Non-interactive IBM z/VM autoinstall (s390x)
 

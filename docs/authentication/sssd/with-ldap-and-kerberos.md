@@ -4,6 +4,9 @@ myst:
     description: Set up SSSD with OpenLDAP for users and groups combined with Kerberos authentication in an Active Directory-like configuration.
 ---
 
+```{tags} How-to guide
+```
+
 (sssd-with-ldap-and-kerberos)=
 # How to set up SSSD with LDAP and Kerberos
 

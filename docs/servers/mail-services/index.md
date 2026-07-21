@@ -4,6 +4,9 @@ myst:
     description: Configure mail services on Ubuntu Server with installation and configuration guides for Postfix, Exim4, and Dovecot.
 ---
 
+```{tags} Index
+```
+
 (how-to-mail-services)=
 # Mail services
 

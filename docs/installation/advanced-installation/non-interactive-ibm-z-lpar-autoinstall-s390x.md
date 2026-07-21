@@ -4,6 +4,9 @@ myst:
     description: Automated Ubuntu Server installation on IBM Z LPAR (s390x) using autoinstall with zFCP storage and VLAN network configuration.
 ---
 
+```{tags} How-to guide
+```
+
 (non-interactive-ibm-z-lpar-autoinstall-s390x)=
 # Non-interactive IBM Z LPAR autoinstall (s390x)
 

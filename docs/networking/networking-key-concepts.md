@@ -4,6 +4,9 @@ myst:
     description: "Understand essential networking concepts including TCP/IP, routing, DNS, and other fundamental protocols for Ubuntu Server networking."
 ---
 
+```{tags} Explanation
+```
+
 (networking-key-concepts)=
 # Networking key concepts
 

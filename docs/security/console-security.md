@@ -4,6 +4,9 @@ myst:
     description: Secure your Ubuntu Server console by disabling Ctrl+Alt+Delete, Magic SysRq reboots and implementing physical access protection measures.
 ---
 
+```{tags} How-to guide
+```
+
 (console-security)=
 # Console security
 

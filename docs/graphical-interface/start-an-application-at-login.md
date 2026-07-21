@@ -1,4 +1,4 @@
-```{tags} Customization
+```{tags} Customization, How-to guide
 ```
 
 (start-an-application-at-login)=

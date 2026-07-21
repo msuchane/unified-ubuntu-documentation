@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (virtualization)=
 # Virtualization and containers on Ubuntu
 

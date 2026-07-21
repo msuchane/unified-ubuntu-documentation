@@ -4,6 +4,9 @@ myst:
     description: Join Ubuntu Server to Microsoft Active Directory domains and forests using Winbind with rid or autorid backends.
 ---
 
+```{tags} Index, Windows
+```
+
 (how-to-active-directory-integration)=
 # Active Directory integration
 

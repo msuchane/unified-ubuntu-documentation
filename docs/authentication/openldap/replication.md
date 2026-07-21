@@ -4,6 +4,9 @@ myst:
     description: Set up data synchronization between OpenLDAP servers for high availability using syncrepl.
 ---
 
+```{tags} How-to guide
+```
+
 (ldap-replication)=
 # OpenLDAP replication
 

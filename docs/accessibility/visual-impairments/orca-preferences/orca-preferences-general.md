@@ -1,4 +1,7 @@
 
+```{tags} Reference
+```
+
 # General preferences
 
 ## Keyboard layout

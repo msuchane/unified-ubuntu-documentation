@@ -4,6 +4,9 @@ myst:
     description: "Comprehensive glossary of Ubuntu Server terminology, including definitions for common technical terms and concepts."
 ---
 
+```{tags} Reference
+```
+
 (reference-glossary)=
 # Glossary
 

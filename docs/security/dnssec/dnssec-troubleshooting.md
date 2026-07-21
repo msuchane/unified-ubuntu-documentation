@@ -4,6 +4,9 @@ myst:
     description: Troubleshoot DNSSEC issues in BIND9 or systemd-resolved with test domains, log analysis, and validation tools to diagnose DNS security extension failures.
 ---
 
+```{tags} How-to guide
+```
+
 (dnssec-troubleshooting)=
 # Basic DNSSEC troubleshooting
 

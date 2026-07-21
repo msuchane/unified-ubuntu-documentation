@@ -4,6 +4,9 @@ myst:
     description: Install and configure DRBD (Distributed Replicated Block Device) for transparent block device mirroring between multiple Ubuntu hosts.
 ---
 
+```{tags} How-to guide
+```
+
 (install-drbd)=
 # Distributed Replicated Block Device (DRBD)
 

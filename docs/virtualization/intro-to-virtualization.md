@@ -4,6 +4,9 @@ myst:
     description: Introduction to the concepts of virtualization and containers on Ubuntu Server.
 ---
 
+```{tags} Explanation
+```
+
 (introduction-to-virtualization)=
 # Introduction to virtualization
 

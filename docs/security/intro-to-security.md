@@ -4,6 +4,9 @@ myst:
     description: Introduction to security best practices on Ubuntu Server including firewalls, AppArmor, authentication, and system hardening fundamentals.
 ---
 
+```{tags} Explanation
+```
+
 (introduction-to-security)=
 # Introduction to security
 

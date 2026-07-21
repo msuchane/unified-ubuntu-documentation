@@ -4,6 +4,9 @@ myst:
     description: "Learn about OpenSSL cryptographic library configuration on Ubuntu Server, including algorithm selection and security settings."
 ---
 
+```{tags} Explanation
+```
+
 (openssl)=
 # OpenSSL
 

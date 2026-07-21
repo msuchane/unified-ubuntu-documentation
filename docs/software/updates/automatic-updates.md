@@ -4,6 +4,9 @@ myst:
     description: Configure automatic security updates on Ubuntu Server with unattended-upgrades including reboot options, update sources, and blocking specific packages.
 ---
 
+```{tags} How-to guide
+```
+
 (automatic-updates)=
 # Automatic updates
 

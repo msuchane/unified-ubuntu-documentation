@@ -2,7 +2,7 @@
 sequential_nav: both
 ---
 
-```{tags} Installation
+```{tags} Installation, Tutorial
 ```
 
 (install-ubuntu-desktop)=

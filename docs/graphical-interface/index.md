@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (graphical-interface)=
 # The graphical interface on Ubuntu
 

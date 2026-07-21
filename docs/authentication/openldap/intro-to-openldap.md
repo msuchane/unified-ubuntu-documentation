@@ -4,6 +4,9 @@ myst:
     description: Introduction to OpenLDAP directory services including LDAP concepts, schemas, entries, and hierarchical data organization.
 ---
 
+```{tags} Explanation
+```
+
 (introduction-to-openldap)=
 # Introduction to OpenLDAP
 

@@ -4,6 +4,9 @@ myst:
     description: Set up Ruby on Rails web framework on Ubuntu with Apache2 and MySQL for database-backed application development.
 ---
 
+```{tags} How-to guide
+```
+
 (install-ruby-on-rails)=
 # How to install and configure Ruby on Rails
 

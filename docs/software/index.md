@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (software-management)=
 # Software in Ubuntu
 

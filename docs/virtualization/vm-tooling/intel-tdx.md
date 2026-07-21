@@ -4,6 +4,9 @@ myst:
     description: Enable Intel TDX confidential computing on Ubuntu to run encrypted Trust Domain VMs with memory and CPU state protection from the host.
 ---
 
+```{tags} How-to guide
+```
+
 (intel-tdx)=
 # Confidential Computing with Intel Trust Domain Extensions (TDX)
 

@@ -4,6 +4,9 @@ myst:
     description: Security concepts and best practices for Ubuntu Server including authentication, cryptography, VPNs, and system hardening strategies.
 ---
 
+```{tags} Index
+```
+
 (security)=
 # Security on Ubuntu
 

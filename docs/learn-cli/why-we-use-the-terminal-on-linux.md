@@ -1,3 +1,6 @@
+```{tags} Explanation
+```
+
 (why-we-use-the-terminal-on-linux)=
 # Why we use the terminal on Linux
 

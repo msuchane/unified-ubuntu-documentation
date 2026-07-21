@@ -1,4 +1,4 @@
-```{tags} Accessibility, Keyboard
+```{tags} Accessibility, Keyboard, How-to guide
 ```
 
 (use-an-on-screen-keyboard)=

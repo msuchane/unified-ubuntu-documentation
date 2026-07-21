@@ -4,6 +4,9 @@ myst:
     description: Introduction to networking fundamentals on Ubuntu Server including TCP/IP, DNS, DHCP, routing, and network configuration basics.
 ---
 
+```{tags} Explanation
+```
+
 (introduction-to-networking)=
 # Introduction to networking
 

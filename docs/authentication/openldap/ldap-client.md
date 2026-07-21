@@ -4,6 +4,9 @@ myst:
     description: Configure an Ubuntu system as an LDAP client using nslcd and NSS to make directory users and groups available for local authentication.
 ---
 
+```{tags} How-to guide
+```
+
 (ldap-client)=
 # Set up an LDAP client
 

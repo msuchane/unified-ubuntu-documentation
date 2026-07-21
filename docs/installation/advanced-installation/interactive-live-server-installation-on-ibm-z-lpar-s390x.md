@@ -4,6 +4,9 @@ myst:
     description: Step-by-step interactive Ubuntu Server installation guide for IBM Z LPAR (s390x) using the live server installer with Hardware Management Console.
 ---
 
+```{tags} How-to guide
+```
+
 (interactive-live-server-installation-on-ibm-z-lpar-s390x)=
 # Interactive live server installation on IBM Z LPAR (s390x)
 

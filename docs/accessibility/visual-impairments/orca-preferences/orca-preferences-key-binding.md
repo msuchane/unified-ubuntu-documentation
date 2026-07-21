@@ -1,4 +1,7 @@
 
+```{tags} Reference
+```
+
 # Key bindings preferences
 
 ## Orca Modifier Keys

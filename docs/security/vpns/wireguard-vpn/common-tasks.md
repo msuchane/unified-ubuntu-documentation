@@ -4,6 +4,9 @@ myst:
     description: Control WireGuard VPN interfaces with systemd, enable automatic startup, and manage VPN connections using systemctl commands.
 ---
 
+```{tags} How-to guide
+```
+
 (common-tasks-in-wireguard-vpn)=
 # Common tasks in WireGuard VPN
 

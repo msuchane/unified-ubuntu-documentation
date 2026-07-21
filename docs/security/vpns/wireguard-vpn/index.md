@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (wireguard-vpn)=
 # WireGuard VPN
 

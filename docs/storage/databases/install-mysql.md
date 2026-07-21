@@ -4,6 +4,9 @@ myst:
     description: Install and configure MySQL database server on Ubuntu for mission-critical, multi-threaded SQL database applications and workloads.
 ---
 
+```{tags} How-to guide
+```
+
 (install-mysql)=
 # Install and configure a MySQL server
 

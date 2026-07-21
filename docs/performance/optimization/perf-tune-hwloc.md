@@ -4,6 +4,9 @@ myst:
     description: "Understand hwloc (Hardware Locality) for discovering hardware topology on Ubuntu Server for performance optimization."
 ---
 
+```{tags} Explanation
+```
+
 (perf-tune-hwloc)=
 # hwloc
 

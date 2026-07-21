@@ -4,6 +4,9 @@ myst:
     description: Install and configure rsnapshot for incremental, scheduled backups of local and remote filesystems using rsync with hard links.
 ---
 
+```{tags} How-to guide
+```
+
 (install-rsnapshot)=
 # How to install and configure rsnapshot
 

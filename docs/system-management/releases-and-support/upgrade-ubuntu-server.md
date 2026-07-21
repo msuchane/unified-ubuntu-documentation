@@ -4,6 +4,9 @@ myst:
     description: Upgrade Ubuntu Server to the next major LTS release with this comprehensive guide covering a pre-upgrade checklist and the do-release-upgrade procedure.
 ---
 
+```{tags} How-to guide
+```
+
 (upgrade-your-release)=
 # How to upgrade your Ubuntu release
 

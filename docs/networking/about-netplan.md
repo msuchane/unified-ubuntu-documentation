@@ -4,6 +4,9 @@ myst:
     description: "Learn about Netplan, Ubuntu's network configuration abstraction layer that simplifies network management with YAML files."
 ---
 
+```{tags} Explanation
+```
+
 (about-netplan)=
 # About Netplan
 

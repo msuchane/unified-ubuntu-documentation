@@ -1,3 +1,6 @@
+```{tags} Index
+```
+
 (visual-impairments)=
 # Visual impairments
 
